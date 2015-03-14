@@ -9,6 +9,8 @@ B=2
 ...
 Z=26
 
+--------------------------------------------------------------------------------------------------------------------------
+
 2 X ALPHA-NUMERIC NUMBER CHART(S)
 
 Alphabet/number codes - example I (long chart/the number calculation has already been done for you)
@@ -24,7 +26,9 @@ A B C D E    F G H I J
 K L M N O    P Q R S T
 U V W X Y    Z
 
-PROBLEM AREAS: 
+--------------------------------------------------------------------------------------------------------------------------
+
+ONE AREA OF DIFFICULTY LEADING TO POSSIBLE CONFUSION/ALONG WITH THE SOLUTION METHOD(S) 
 
 If we take the numbers A=1/K=11...and, enjoin these two numbers together...; 
 then, we get the following numerical arrangement...
@@ -44,6 +48,8 @@ b> Otherwise, use what are known as digraphs, meaning 2 numbers;
 where any single digit number is prefixed with a zero: thus, 1=01/2=02/.../9=09/-etc.
 
 n1+n2,n1+n2,n1+n2,-etc.
+
+--------------------------------------------------------------------------------------------------------------------------
 
 EXAMPLE CODES:-
 
