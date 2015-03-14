@@ -53,12 +53,12 @@ n1+n2,n1+n2,n1+n2,-etc.
 
 EXAMPLE CODES:-
 
-EXAMPLE CODE I
+EXAMPLE CODE I (comma seperated list of values)
 
 Plaintext: Paul
 Ciphertext: 16,1,21,12
 
-EXAMPLE CODE II
+EXAMPLE CODE II (fixed length numbers: digraphs)
 
 Plaintext: Paul
 Ciphertext: 16012112
