@@ -1,3 +1,5 @@
+ALPHA-NUMERIC NUMBER CODES
+
 A very simple code is to use Alpha-numerics; where each individual alphabet letter becomes a number, instead.
 
 For example,...
@@ -7,28 +9,50 @@ B=2
 ...
 Z=26
 
-NOTE: The codes below are arranged going 5+5=10 letters across;
-so, it should be very easily to find and locate any letter/number you please.
-For example, to find 16: you would just count 10+5+1 = P/-etc.
+2 X ALPHA-NUMERIC NUMBER CHART(S)
+
+Alphabet/number codes - example I (long chart/the number calculation has already been done for you)
 
 A=1  B=2  C=3  D=4  E=5      F=6  G=7  H=8  I=9  J=10
 K=11 L=12 M=13 N=14 O=15     P=16 Q=17 R=18 S=19 T=20
 U=21 V=22 W=23 X=24 Y=25     Z=26
 
-Thus, the name: Paul, could be encoded as...
+Alphabet/number codes - example II (short chart/you have to work out the number calculation for yourself, instead)
 
-16,1,21,12
+1 2 3 4 5    6 7 8 9 10
+A B C D E    F G H I J
+K L M N O    P Q R S T
+U V W X Y    Z
 
-NOTE: If we take the numbers A=1/K=11...and, enjoin these together...we get the following numerical arrangement...
+PROBLEM AREAS: 
+
+If we take the numbers A=1/K=11...and, enjoin these two numbers together...; 
+then, we get the following numerical arrangement...
 111
 ...however, this is very ambiguous, indeed...as is that code actually meant to be 11,1/or, 1,11...??? Answer: We don't know?!
 Thus, there are two ways around this in order to quite clearly be able to distinguish one number from a next...
 
-a> Add a separator symbol in between each number/or, set of numbers...
+a> Add a separator symbol in between each number/or, set of numbers...; 
+in the following case, I use a comma (,) to be the separator symbol. 
 
-b> Otherwise, use what are known as digraphs, meaning 2 letter numbers, instead; 
-where any single digit number is prefixed with a zero: thus, 1=01/2=02/-etc.
+n1,n1+n2
+...or,..
+n1+n2,n1
 
-Thus, the name: Paul, could be encoded as...
+b> Otherwise, use what are known as digraphs, meaning 2 numbers; 
+...thus, giving each number a 'fixed length'...; 
+where any single digit number is prefixed with a zero: thus, 1=01/2=02/.../9=09/-etc.
 
-16012112
+n1+n2,n1+n2,n1+n2,-etc.
+
+EXAMPLE CODES:-
+
+EXAMPLE CODE I
+
+Plaintext: Paul
+Ciphertext: 16,1,21,12
+
+EXAMPLE CODE II
+
+Plaintext: Paul
+Ciphertext: 16012112
