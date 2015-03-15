@@ -55,10 +55,10 @@ EXAMPLE CODES:-
 
 EXAMPLE CODE I (comma seperated list of values)
 
-Plaintext: Paul
+ Plaintext: Paul
 Ciphertext: 16,1,21,12
 
 EXAMPLE CODE II (fixed length numbers: digraphs)
 
-Plaintext: Paul
+ Plaintext: Paul
 Ciphertext: 16012112
