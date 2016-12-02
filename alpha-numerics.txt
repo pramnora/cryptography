@@ -41,7 +41,7 @@ Q: Which letter is it? A: We really don't know?!
 
 There are two possible ways around this in order to quite clearly be able to distinguish what is one number from the next...
 
-a> Add either a separator/(or, space) symbol in between each number/or, set of numbers: 
+a> Add either a separator symbol such as a comma: (,)/or, alternatively, add a space: " " in between each number/or, set of numbers: 
 
 n1,n2
 n1,n2,n3
@@ -49,6 +49,19 @@ n1,n2,n3
 n1 n2
 n1 n2 n3
 -etc.
+
+So,...
+111
+111
+111
+...becomes, instead: comma seperated values...
+1,11
+11,1
+1,1,1
+...or, space seperated values...
+1 11
+11 1
+1 1 1
 
 b> Otherwise, use what are known as digraphs, meaning 2 numbers; 
 ...thus, giving each number the same 'fixed length'...; 
