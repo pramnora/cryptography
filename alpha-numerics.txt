@@ -117,4 +117,7 @@ Examples:
 26/26-(26-1=)25=1
 17/26-(17-1=)16=10
 01/26-(1-1=)0=26
+
+Without any question at all whatsoever...the best coders tends to be those people who are 'expert' mathematicians; 
+as they alone can come up with the most complex/and, therefore, extremely difficult to decipher coding/decoding schemes.
 --------------------------------------------------------------------------------------------------------------------------
