@@ -88,7 +88,9 @@ Ciphertext: 16012112
 --------------------------------------------------------------------------------------------------------------------------
 THE FOLLOWING DATA ADDED: 021216 05:30 PM GMT
 
-NOTE: In most coding schemes; whenever one stops to analyze it...; then, almost invariably, we find that 'maths' is the real big secret which lies behind the coding/decoding process.
+NOTE: In most coding/decoding schemes; whenever one stops to analyze it...; 
+then, almost invariably, we find that 'maths' is the real big secret 
+which lies behind the coding/decoding process.
 
 Examples of coding/decoding using mathematical formula:-
 -----
