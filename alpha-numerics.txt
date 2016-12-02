@@ -34,7 +34,7 @@ If we take the numbers A=1/K=11...and, enjoin these two numbers together...;
 then, we get the following numerical arrangement...
 111
 ...however, this is very ambiguous, indeed...as is the code could be very easily be mis-interpreted to mean...
-111 = (K=1,A=1)?
+111 = (K=11,A=1)?
 111 = (A=1,K=11)?
 111 = (A=1,A=1,A=1)?
 Q: Which letter is it? A: We really don't know?!
