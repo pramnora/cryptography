@@ -24,9 +24,20 @@ a combination of these numbers can then be used to represent each alphabet lette
   
   1A2C,1A,1B1A,1A1B
   
-  In order to make things appear to be a lot more even; we could invent a number representing: 0...as 00;
-  which would be prefixed to any single digit number; thus, making all numbers become 4 digits long; and,
-  now, we get...(without needing to use any comma as being a separator)...
+  But, there are 2 problems...
+  1> What if we wanted to show alphabet numbers: 10(K),20/(T)...if there is no 0?
+  2> We could also prefix each single digit number with a 0(in order to make even the length).
+  This means we can invent a number representing: 0...as: 00;
+  now, this means numbers ending in 0: 10/20, can be represented;
+  also, single digit numbers which result in a lengh of 2...can have a length of 4;
+  it also means we can get rid of the comma (,) being used as the separator sign.
+
+  P = 16th letter of the alphabet: row(1),column(A)=1 - row(2),column(C)=6/1A2C
+  A = 1st letter of the alphabet: single number prefixe with: 00 - row(1),column(A)=1/001A
+  U = 21st letter of the alphabet: row(1),column(B)=2 - row(1),column(A)=1/1B1A
+  L = 12th letter of the alphabet: row(1),column(A)=1 - row(1),column(B)=2/1A1B
+  
+  Thus, we get...
   
   1A2C001A1B1A1A1B
   
