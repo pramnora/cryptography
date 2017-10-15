@@ -1,0 +1,29 @@
+There are 26 letters of the alphabet; which makes it possible to stick all of those letters into a 5 x 5 grid;
+however, of course, there will still be 1 letter left over; the way we deal with this is say the last 2 letters: Y/Z;
+they can be conjoined together to become 'one' single letter, instead.
+
+     a    b    c    d     e
+
+1    A    B    C    D     E
+
+2    F    G    H    I     J
+
+3    K    L    M    N     O
+
+4    P    Q    R    S     T
+
+5    U    V    W    X    Y/Z
+
+So, if we wanted to spell the name: Paul;
+we would read the row(number)/col(letter):
+
+P = 4,b
+A = 1,a
+U = 5,1
+L = 3,b
+
+...and, so we get...
+
+4b1a513b
+
+
