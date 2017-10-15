@@ -2,6 +2,23 @@ There are numerous ways to re-arrange text; and, here I will list just a few suc
 
 -----
 
+REVERSE TEXT MESSAGE
+
+If we reverse the text message by writing it backwards:
+
+This is a secret message.
+
+We get this, instead:
+
+.egassemtercesasisihT
+
+Turn any obvious capital letters into lower case;
+and, deleting the obvious spaces/punctuation we get...
+
+egassemtercesasisiht
+
+-----
+
 SWAP EVERY 2 LETTERS AROUND
 
 Let's take the message text:
@@ -10,10 +27,11 @@ This is a secret message.
 
 hTsi si s aceerm tseaseg.
 
-Turn and capital letters into lower case;
+Turn any obvious capital letters into lower case;
 and, deleting the obvious spaces/punctuation we get...
 
 htsisisaceermtseaseg
+
 
 -----
 
