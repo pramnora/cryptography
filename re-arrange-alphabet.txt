@@ -3,7 +3,7 @@ A=01,B=02,C=03,...,Z=26
 ...then, decoding is rather obvious: 010203=ABC.
 
 So, in order to make the alphabet much less predictable; 
-it's possible to start the alphabet off by pre-fixing it with say your name:
+it's possible to start the alphabet off by pre-fixing it with say your name(or, word/phase):
 
 Paul Ramnora
 
