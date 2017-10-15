@@ -5,3 +5,8 @@ Cryptography, is a very deeply fascinating subject, in that there are an endless
 
 One could study for a whole entire lifetime...and, still be discovering brand 'new' ways to both design/write codes...ranging from simple/to complex.  
 
+## LINKS...
+
+Here is a link to my own hide 'secret-message' files on GitHub...  
+https://github.com/pramnora/secret-messages  
+
