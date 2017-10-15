@@ -1,4 +1,4 @@
-There are 26 alphabet letters...which makes it possible to stick all of those letters into a: 5 x 5 grid(5 x 5 = 25);
+There are 26 alphabet letters...which makes it possible to stick all of those letters into a: 5 x 5 grid/(5 x 5 = 25);
 however, of course, if we only have 25 spaces inside of our grid; then, that means there will still be 1 letter left over;
 the way we deal with this is say the last 2 letters: Y/Z; can be conjoined together to become 'one' single letter alone.
 
@@ -15,7 +15,7 @@ the way we deal with this is say the last 2 letters: Y/Z; can be conjoined toget
 5    U    V    W    X    Y/Z
 
 So, if we wanted to spell the name: Paul;
-we would read the row(number)/col(letter):
+we would read the row(number)/column(letter):
 
 P = 4,b
 A = 1,a
