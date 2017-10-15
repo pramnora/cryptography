@@ -1,0 +1,21 @@
+There is a computing standard known as ASCII/American Standard Code for Information Interchange.
+
+This code represents upper case letters of the alphabet as being numbers: 65-90.
+
+The maths involved is fairly simple...
+
+Letter A = position 1 in the alphabet...so, n + 64 = 1 + 64 = ASCII code number: 65
+Letter B = position 2 in the alphabet...so, n + 64 = 2 + 64 = ASCII code number: 66
+...
+Letter Z = position 26 in the alphabet...so, n + 64 = 26 + 64 = ASCII code number: 90
+
+So, my name, Paul, can be written as:
+
+Letter P = position 16 in the alphabet...so, n + 64 = 16 + 64 = ASCII code number: 80
+Letter A = position 1  in the alphabet...so, n + 64 = 1  + 64 = ASCII code number: 65
+Letter U = position 21 in the alphabet...so, n + 64 = 21 + 64 = ASCII code number: 85
+Letter L = position 12 in the alphabet...so, n + 64 = 12 + 64 = ASCII code number: 76
+
+Thus, we get...
+
+80658576
