@@ -62,8 +62,8 @@ and, putting these two things together onto one same line we get:
 
 Tiiaertesg.hssscemsae
 
-If we lowercase any obvious Capital letters: (T)/
-and, also, delete all punctuation symbols/marks: (.) we get...
+Turn any obvious capital letters into lower case;
+and, deleting the obvious spaces/punctuation we get...
 
 tiiaertesghssscemsae
 
