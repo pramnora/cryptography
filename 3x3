@@ -1,0 +1,26 @@
+Each alphabet letter can be numbered from 1 up to 26: A=1,B=2,...,Z=26.
+-(NOTE: There is no zero.)-
+
+So, it's possible to create a 3 x 3 grid which will store a total of 9 numbers; 
+a combination of these numbers can then be used to represent each alphabet letter number.
+
+
+      A   B   C
+  
+  1   1   2   3
+  
+  2   4   5   6
+  
+  3   7   8   9
+  
+  So, Paul would be spelled as...
+  
+  P = 16th letter of the alphabet: row(1),column(A)=1 - row(2),column(C)=6/1A2C
+  A = 1st letter of the alphabet: row(1),column(A)=1/1A
+  U = 21st letter of the alphabet: row(1),column(B)=2 - row(1),column(A)=1/1B1A
+  L = 12th letter of the alphabet: row(1),column(A)=1 - row(1),column(B)=2/1A1B
+  
+  Thus, we get...
+  
+  1A2C,1A,1B1A,1A1B
+  
