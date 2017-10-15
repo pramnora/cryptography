@@ -22,8 +22,8 @@ U=21 V=22 W=23 X=24 Y=25     Z=26
 Alphabet/number codes - example II (short chart/you have to work out the number calculation for yourself, instead)
 
 1 2 3 4 5    6 7 8 9 10
-A B C D E    F G H I J
-K L M N O    P Q R S T
+A B C D E    F G H I J   10
+K L M N O    P Q R S T   20
 U V W X Y    Z
 
 --------------------------------------------------------------------------------------------------------------------------
