@@ -1,5 +1,10 @@
 There are numerous ways to re-arrange text; and, here I will list just a few such simple methods...
 
+REVERSE TEXT MESSAGE
+SWAP EVERY 2 LETTERS AROUND
+RE-WRITE MESSAGE A SPECIFIC NUMBER OF CHARACTERS GOING ONTO EACH LINE 
+USING MULTIPLE ENCODING METHODS
+
 -----
 
 REVERSE TEXT MESSAGE
@@ -69,3 +74,38 @@ tiiaertesghssscemsae
 
 -----
 
+USING MULTIPLE ENCODING METHODS
+
+To make ciphers that much harder to break; one may opt to use 
+multiple different encoding methods instead of just merely 'one'.
+
+Let's take the message text:
+
+This is a secret message.
+
+REVERSE IT...
+
+egassemtercesasisiht
+
+SWAP EVERY 2 LETTERS AROUND
+
+gesaestmreecasisisth
+
+WRITE IT DOWN 2 LETTERS AT A TIME ON EACH LINE
+
+ge
+sa
+es
+tm
+re
+ec
+as
+is
+is
+th
+
+RE-WRITE BOTH COLUMNS GOING VERTICALLY DOWNWARDS; THEN, JOIN
+
+gsetreaiiteasmecsssh
+
+...and, that's it, the same 'one' text message only this time encoded using 3 different methods. 
