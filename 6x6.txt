@@ -1,0 +1,29 @@
+There 26 alphabet letters: A-Z/and, 10 digits: 0-9; 
+this makes for a total of 36 characters, altogether; 
+which, rather conveniently, can each be placed into a 6 x 6 grid: 6 x 6 = 36.
+
+    a   b   c   d   e   f
+
+a   A   B   C   D   E   F
+ 
+b   G   H   I   J   K   L
+
+c   M   N   O   P   Q   R
+
+d   S   T   U   V   W   X
+
+e   Y   Z   0   1   2   3
+
+f   4   5   6   7   8   9
+
+So, to encode the text: Paul; 
+we first find: P...;
+then, read off the row/col letters: c,d;
+next, find: A...;
+then, read off the row/col letters: a,a;
+next, find: U...;
+then, read off the row/col letters: d,c;
+next, find: L...;
+then, read off the row/col letters: b,f;
+thus, Paul encoded becomes:
+cdaadcbf
