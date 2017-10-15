@@ -86,13 +86,13 @@ F   4   5   6   7   8   9
 
 So, to encode the text: Paul; 
 we first find: P...;
-then, read off the row/col letters: 3,4;
+then, read off the row/col letters: C,4;
 next, find: A...;
-then, read off the row/col letters: 1,1;
+then, read off the row/col letters: A,1;
 next, find: U...;
-then, read off the row/col letters: 4,3;
+then, read off the row/col letters: D,3;
 next, find: L...;
-then, read off the row/col letters: 2,6;
+then, read off the row/col letters: B,6;
 thus, Paul encoded becomes:
 C4A1D3B6
 
@@ -118,13 +118,13 @@ $   S   T   U   V   W   X
 
 So, to encode the text: Paul; 
 we first find: P...;
-then, read off the row/col letters: 3,4;
+then, read off the row/col letters: £,);
 next, find: A...;
-then, read off the row/col letters: 1,1;
+then, read off the row/col letters: !,&;
 next, find: U...;
-then, read off the row/col letters: 4,3;
+then, read off the row/col letters: $,(;
 next, find: L...;
-then, read off the row/col letters: 2,6;
+then, read off the row/col letters: ",+;
 thus, Paul encoded becomes:
 £)!&$("+
 
