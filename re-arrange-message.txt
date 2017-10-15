@@ -1,8 +1,29 @@
+There are numerous ways to re-arrange text; and, here I will list just a few such simple methods...
+
+-----
+
+SWAP EVERY 2 LETTERS AROUND
+
 Let's take the message text:
 
 This is a secret message.
 
-It's possible to re-arrange it into lines consisting of only 2 characters...
+hTsi si s aceerm tseaseg.
+
+Turn and capital letters into lower case;
+and, deleting the obvious spaces/punctuation we get...
+
+htsisisaceermtseaseg
+
+-----
+
+RE-WRITE MESSAGE A SPECIFIC NUMBER OF CHARACTERS GOING ONTO EACH LINE 
+
+Let's take the message text:
+
+This is a secret message.
+
+It's possible to re-write it into lines consisting of only 2 characters...
 
 Th
 is
@@ -27,4 +48,6 @@ If we lowercase any obvious Capital letters: (T)/
 and, also, delete all punctuation symbols/marks: (.) we get...
 
 tiiaertesghssscemsae
+
+-----
 
