@@ -1,6 +1,6 @@
 There 26 alphabet letters: A-Z/and, 10 digits: 0-9; 
-this makes for a total of 36 characters, altogether; 
-which, rather conveniently, can each be placed into a 6 x 6 grid: 6 x 6 = 36.
+this makes for a total of 36 characters, altogether: (26+10=36); 
+each character can be placed into a 6 x 6 grid: 6 x 6 = 36.
 
     a   b   c   d   e   f
 
