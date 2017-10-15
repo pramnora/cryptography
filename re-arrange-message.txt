@@ -2,7 +2,7 @@ Let's take the message text:
 
 This is a secret message.
 
-It's possible to re-arrange it into lines of only 2 characters...
+It's possible to re-arrange it into lines consisting of only 2 characters...
 
 Th
 is
