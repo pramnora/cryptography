@@ -1,0 +1,30 @@
+Let's take the message text:
+
+This is a secret message.
+
+It's possible to re-arrange it into lines of only 2 characters...
+
+Th
+is
+is
+as
+ec
+re
+tm
+es
+sa
+ge
+.
+
+...we may now re-write the same line...going from top down to bottom...
+first, reading downwards from the top of col 1: Tiiaertesg.
+then, reading downwards again from the top of col 2: hssscemsae
+and, putting these two things together onto one same line we get:
+
+Tiiaertesg.hssscemsae
+
+If we lowercase any obvious Capital letters: (T)/
+and, also, delete all punctuation symbols/marks: (.) we get...
+
+tiiaertesghssscemsae
+
