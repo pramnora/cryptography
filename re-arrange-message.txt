@@ -1,13 +1,13 @@
 There are numerous ways to re-arrange text; and, here I will list just a few such simple methods...
 
-REVERSE TEXT MESSAGE
-SWAP EVERY 2 LETTERS AROUND
-RE-WRITE MESSAGE A SPECIFIC NUMBER OF CHARACTERS GOING ONTO EACH LINE 
-USING MULTIPLE ENCODING METHODS
+-> REVERSE TEXT MESSAGE
+-> SWAP EVERY 2 LETTERS AROUND
+-> RE-WRITE MESSAGE A SPECIFIC NUMBER OF CHARACTERS GOING ONTO EACH LINE 
+-> USING MULTIPLE ENCODING METHODS
 
 -----
 
-REVERSE TEXT MESSAGE
+-> REVERSE TEXT MESSAGE
 
 If we reverse the text message by writing it backwards:
 
@@ -24,7 +24,7 @@ egassemtercesasisiht
 
 -----
 
-SWAP EVERY 2 LETTERS AROUND
+-> SWAP EVERY 2 LETTERS AROUND
 
 Let's take the message text:
 
@@ -40,7 +40,7 @@ htsisisaceermtseaseg
 
 -----
 
-RE-WRITE MESSAGE A SPECIFIC NUMBER OF CHARACTERS GOING ONTO EACH LINE 
+-> RE-WRITE MESSAGE A SPECIFIC NUMBER OF CHARACTERS GOING ONTO EACH LINE 
 
 Let's take the message text:
 
@@ -74,7 +74,7 @@ tiiaertesghssscemsae
 
 -----
 
-USING MULTIPLE ENCODING METHODS
+-> USING MULTIPLE ENCODING METHODS
 
 To make ciphers that much harder to break; one may opt to use 
 multiple different encoding methods instead of just merely 'one'.
@@ -83,15 +83,15 @@ Let's take the message text:
 
 This is a secret message.
 
-REVERSE IT...
+1> REVERSE IT...
 
 egassemtercesasisiht
 
-SWAP EVERY 2 LETTERS AROUND
+2> SWAP EVERY 2 LETTERS AROUND
 
 gesaestmreecasisisth
 
-WRITE IT DOWN 2 LETTERS AT A TIME ON EACH LINE
+3> WRITE IT DOWN 2 LETTERS AT A TIME ON EACH LINE
 
 ge
 sa
