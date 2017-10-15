@@ -1,0 +1,30 @@
+If we encode using the straight forwards alphabet scheme, where...
+A=01,B=02,C=03,...,Z=26
+...then, decoding is rather obvious: 010203=ABC.
+
+So, in order to make the alphabet much less predictable; 
+it's possible to start the alphabet off by pre-fixing it with say your name:
+
+Paul Ramnora
+
+...then, we get...
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+P  A  U  L  R  M  N  O  
+
+...now, continue on writing all the rest of the alphabet letters after your name...
+01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+P  A  U  L  R  M  N  O  B  C  D  E  F  G  H  I  J  K  Q  S  T  V  W  X  Y  Z
+
+NOTE: The strict rule is...to only write each letter only just, once; with no letter being repeated. 
+
+Now, if we wish to write: ABC it's encoded as 020910 which is much less obvious.
+
+-----
+
+You see we could have opted to go for an entirely 'random' arrangement of alphabet letters/numbers;
+however, the problem there is how would another person know how to 'decode' it?!
+Answer: It would be very difficult, indeed, having to reproduce what is a purely 'random' arrangment.
+
+Thus, we use a 'fixed' code word to prefix the alphabet with; 
+and, of course, this makes things much more easier to decipher, afterwards;
+anybody who knows the original code word would be able to deciper what the message means.
