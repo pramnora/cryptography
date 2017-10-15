@@ -24,3 +24,11 @@ a combination of these numbers can then be used to represent each alphabet lette
   
   1A2C,1A,1B1A,1A1B
   
+  In order to make things appear to be a lot more even; we could invent a number representing: 0...as 00;
+  which would be prefixed to any single digit number; thus, making all numbers become 4 digits long; and,
+  now, we get...(without needing to use any comma as being a separator)...
+  
+  1A2C001A1B1A1A1B
+  
+  
+  
