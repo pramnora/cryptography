@@ -69,4 +69,19 @@ eg. row 1, could be represented as 3 seperate digits: 1,4,7;
 So, now, we get...    
   
 47590075147148
+
+-----
+
+We could try tossing in some 'random noise' to the above; such as adding the number: 0; 
+which, basically, means seeing a single 0 on it's own doesn't mean anything.
  
+So, now, we get...    
+  
+040705900750104701408
+
+...here the only significant 0's are whenever we see a pair of 0's.
+
+-----
+
+Equally possible, we could include other sorts of random noise, as well; 
+including letters both uppercase/and, lowercase; as well as, symbols/-etc.
