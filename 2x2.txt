@@ -6,7 +6,7 @@ The most numbers that 2 bits can hold is 4: 00/01/10/11.
 
 This arrangement fits very well into a 2 by 2 grid(2x2=4).
 
-      1     0
+      0     1
 
 0     00    01
 
