@@ -77,11 +77,32 @@ which, basically, means seeing a single 0 on it's own doesn't mean anything.
  
 So, now, we get...    
   
-040705900750104701408
+04070590000075010470140800000
 
-...here the only significant 0's are whenever we see a pair of 0's.
+...here the only significant 0's are whenever we see a pair of 0's that is also located next to a pair of numbers.
 
 -----
 
-Equally possible, we could include other sorts of random noise, as well; 
-including letters both uppercase/and, lowercase; as well as, symbols/-etc.
+Of course, we could equally have chosen to include all sorts of other random noise, as well; 
+such as, letters both uppercase/lowercase; as well as, symbols/-etc.
+
+04Ax@0G70U59K0rT0G0z0m07501047014080q0UT0n0mc000
+
+So, in order to 'decode' the above string; 
+
+1> Take out all the capital letters...  
+04Ax@0G70U59K0rT0G0z0m07501047014080q0UT0n0mc000
+04x@070590r00z0m07501047014080q00n0mc000
+
+2> Take out all the lower case letters...  
+04x@070590r00z0m07501047014080q00n0mc000
+04@07059000007501047014080000000
+
+3> Take out all the symbols...  
+0407059000007501047014080000000
+
+4> Take out any zero numbers unless they are 'double zero prefixing a pair of numbers'...
+47590075147148
+
+...and, so, we return back to what was our 'original code'.
+
