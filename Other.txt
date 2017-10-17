@@ -4,4 +4,5 @@ Other ways to encrypt data...is to use...
 -Colours
 -Code words/(as opposed to code letters)
 -Hidden/or, invisible text
+-Random Nose
 -Etc.
