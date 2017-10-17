@@ -71,6 +71,8 @@ So, now, we get...
 
 -----
 
+1> RANDOM NOISE 
+
 We could try tossing in some 'random noise' to the above; such as adding the number: 0; 
 which, basically, means seeing a single 0 on it's own doesn't mean anything.
  
@@ -81,6 +83,8 @@ So, now, we get...
 ...here the only significant 0's are whenever we see a pair of 0's that is also located next to a pair of numbers.
 
 -----
+
+2> RANDOM NOISE 
 
 Of course, we could equally have chosen to include all sorts of other random noise, as well; 
 such as, letters both uppercase/lowercase; as well as, symbols/-etc.
