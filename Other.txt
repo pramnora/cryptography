@@ -4,6 +4,6 @@ Other ways to encrypt data...is to use...
 - Colours
 - Foreign languages
 - Hidden/or, invisible text
-- Random Noise
-- Symbols
+- Random Noise/(meaningless characters)
+- Shapes and symbols/(invented shapes/symbols)
 - Etc.
