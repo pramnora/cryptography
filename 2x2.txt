@@ -22,3 +22,18 @@ Row: 1/Column: 0 = 10
 Row: 1/Column: 1 = 11
 
 ...so, this form of encoding wouldn't work; as the code results in 'unencoded' numbers, anyway!
+
+However, it's certainly possible to change the encoding scheme to use different names of each Row/Column;
+such as: AB-AB/or, even AB-CD/-etc.
+
+      A     B
+
+A     00    01
+
+B     10    11
+
+      C     D
+
+A     00    01
+
+B     10    11
