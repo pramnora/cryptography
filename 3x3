@@ -99,6 +99,7 @@ So, in order to 'decode' the above string;
 04@07059000007501047014080000000
 
 3> Take out all the symbols...  
+04@07059000007501047014080000000
 0407059000007501047014080000000
 
 4> Take out any zero numbers unless they are 'double zero prefixing a pair of numbers'...
