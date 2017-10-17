@@ -17,13 +17,13 @@ the way we deal with this is say the last 2 letters: Y/Z; can be conjoined toget
 So, if we wanted to spell the name: Paul;
 we would read the row(number)/column(letter):
 
-P = 4,b
+P = 4,a
 A = 1,a
-U = 5,1
+U = 5,a
 L = 3,b
 
 ...and, so we get...
 
-4b1a513b
+4a1a5a3b
 
 
