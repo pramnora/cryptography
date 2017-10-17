@@ -1,0 +1,22 @@
+In the very famous Caeser Shift Cipher,
+the alpabet letter numbers: (1-26), are changed by a numbers key;
+for example: +1.
+
+Such that...
+A=1(+1)=2/A=B(2)
+B=2(+1)=3/B=C(3)
+...
+Z=26(+1)=27(27-26)=1/Z=A
+
+So, the maths are...if the number added makes a total which is either equal to or greater than 26; 
+then, take away 26 from that number.
+n<26...+1/n>=26...+1 & -26
+
+P=16(+1)=17/P=Q(17)
+A=1(+1)=2/A=B(2) ...remember to add prefix 0 to even out numbers length in case of single digits: 02
+U=21(+1)=22/U=V(22)
+L=12(+1)=13/L=M(13)
+
+...so we get...
+
+17022213
