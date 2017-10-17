@@ -7,9 +7,9 @@ Such that...
 A=1(+1)=2/A=B(2)
 B=2(+1)=3/B=C(3)
 ...
-Z=26(+1)=27(27-26)=1/Z=A
+Z=26(+1)=27/(27-26)=1/Z=A(1)
 
-So, the maths are...if the number added makes a total which is either equal to or greater than 26; 
+So, the maths are...if the number added makes a total which is greater than 26; 
 then, take away 26 from that number.
 n<26...+1/n>=26...+1 & -26
 
