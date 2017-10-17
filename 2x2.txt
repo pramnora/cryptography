@@ -12,4 +12,13 @@ This arrangement fits very well into a 2 by 2 grid(2x2=4).
 
 1     10    11
 
-It's very interesting to note that in this particular case; each row/column number translates to being the same as the numbers contained inside of the grid itself/in other words, they are the same. Row: 0/Column: 0 = 00; Row: 0/Column: 1 = 01/-etc.
+It's very interesting to note that in this particular case; 
+each row/column number translates to being the same 
+as the numbers contained inside of the grid itself. 
+
+Row: 0/Column: 0 = 00 
+Row: 0/Column: 1 = 01
+Row: 1/Column: 0 = 10
+Row: 1/Column: 1 = 11
+
+...so, this form of encoding wouldn't work; as the code results in 'unencoded' numbers, anyway!
