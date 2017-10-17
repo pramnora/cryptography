@@ -1,5 +1,6 @@
 In the very famous Caeser Shift Cipher,
-the alpabet letter numbers: (1-26), are changed by a numbers key;
+the alpabet letter numbers: (1-26), 
+are changed by a numbers key; 
 for example: +1.
 
 Such that...
