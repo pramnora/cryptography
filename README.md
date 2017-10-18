@@ -8,5 +8,10 @@ One could study for a whole entire lifetime...and, still be discovering brand 'n
 ## LINKS...
 
 Here is a link to my own hide 'secret-message' files on GitHub...  
-https://github.com/pramnora/secret-messages  
+- https://github.com/pramnora/secret-messages  
+
+Wikipedia...  
+- https://en.wikipedia.org/wiki/Caesar_cipher  
+- https://en.wikipedia.org/wiki/ROT13  
+
 
