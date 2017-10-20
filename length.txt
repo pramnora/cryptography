@@ -34,6 +34,6 @@ So, for example, you could have a single letter: 'A'...;
 which has been encoded as becoming a random series of 'numbers/characters' totaling 255+ in length.
 
 This would make the code very difficult, indeed, for us humans to read...; 
-however, computer which work at 'electronic' speeds could read and understand it both quickly and easily;
-which, in turn, implies that certain codes only computers are truly capable of creating/reading/interpreting;
-and, it's for these same reasons, why many coders are, in fact, also, 'computer programmers'.
+however, computers -which work at 'electronic' speeds- could both read and understand it very quickly and easily;
+which, in turn, implies that certain codes only computers alone are capable of creating/reading/interpreting;
+and, it's for these same reasons why many coders are, in fact, also, 'computer programmers'.
