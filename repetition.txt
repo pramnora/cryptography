@@ -1,0 +1,66 @@
+Cryptography, is made up of 2 parts...
+
+1> Coder   - (puzzle maker)
+2> Decoder - (puzzle breaker)
+
+-----
+
+DECODING
+
+The decoding process usually involves finding certain specific 'patterns' which can then be used to 
+break into, and, thus, help solve the code.
+
+For example,...
+
+01 2456 78990 012357998 01 234570843150
+
+...if we look at the above code to see if we can discover any 'regular' types of fixed pattern;
+then, it's possible to infer that...
+
+a> The first 'signature' pattern that it's possible to quickly and easily detect is,
+this code consists exclusively of 'numbers', alone;
+(there are no letters/nor other symbols in there).
+
+b> Another give away 'signature' pattern is the use of 'spaces';
+in English we write words by using 'spaces' in between each word;
+so, one might infer that these are 'words' in a sentence, possibly.
+
+c> Another signature pattern which one might latch onto is...;
+at least, 2 numbers are repeated which stand entirely alone, namely: '01';
+so, this could represent a single letter such as the English language: 'a';
+how many other frequently used 'single letter' words in the English language are there
+that are written to stand entirely on their own? In fact, there are just 2: 'a'/'i';
+so, '01' could mean either an: 'a'/or, an 'i', quite possibly?
+
+And, so, decoding consists of finding patterns; 
+and, then, breaking these pattens down to make some sort of sense.
+
+-----
+
+ENCODING
+
+The encoders job...is to be 'aware' of what sort of things can make a code easy to break;
+namely, the use of any fixed sort of 'patterns'.
+
+So, for example, in the above text...
+01 2456 78990 012357998 01 234570843150
+
+We can choose to, quite deliberately, take out all of the spaces...
+0124567899001235799801234570843150
+...and, now, the decoder doesn't know where one word starts/or, ends;
+as there are no spaces to, quite clearly, indicate that.
+Nor can the see any clearly repeating stand alone: 01's, anymore;
+to indicate either 'a'/or,'i'.
+
+Another thing the encoder can do is to...mix both letters/numbers...;
+so, using: Alphabet letter number codes: A=01/B=02/-etc.;
+change a few of these numbers into becoming letters, instead: 9=I/2=B/7=G/-etc.
+01B45678I9001235G9I801234570843150
+maybe, to confuse matters even more, 
+include a mixture of both upper case/lower case: 2=b
+01B456g8I9001235G9I801b3457084c150
+...and, so on...
+Now, it's much less easy to see/understand what these codes might mean..? 
+
+
+
