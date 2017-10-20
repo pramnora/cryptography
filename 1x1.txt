@@ -1,0 +1,8 @@
+The thing about a 1x1 grid is it can only hold a single character at a time...
+
+   1
+1  0
+
+Unless, of course, we were talking about Quantum computing...in the which case, a 1 x 1 grid could actually hold 2 characters, at once.
+   1
+1 1/0
