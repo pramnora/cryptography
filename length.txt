@@ -1,0 +1,29 @@
+One coding ingredient concerns the question of 'length'.
+
+Basically, the 'length' can have 2 variations...either 'fixed' length/or else, 'variable' length, instead.
+
+For example,... 
+A=1/1st alphabet letter
+B=2/2nd alphabet letter
+C=3/3rd alphabet letter
+...so using only characters: A,B,C;
+we could say that each letter is encoded using a 'fixed' number key length of: 1. 
+
+Now, if we were to prefix any encoded single number with a 0...we get...
+A=01/1st alphabet letter
+B=02/2nd alphabet letter
+C=03/3rd alphabet letter
+...so using only characters: A,B,C;
+we could say that each letter is encoded using a 'fixed' number key length of: 2. 
+
+However, it's also possible to encode letters by using a 'randomly' chosen number length series, instead...
+A=27/1st alphabet letter
+B=34560/2nd alphabet letter
+C=9/3rd alphabet letter
+...so, this kind of key length can be called: 'variable'; ranging from 1 to, possibly, even an infinite length.
+
+-----
+
+Generally speaking, in computer programming a string of 'numbers/characters' can be anything up to 255 in length;
+however, there is no strict rule which says one cannot join or 'con-catenate' strings together...;
+thus, making a whole series of joined up strings to be any arbitrary length of your own choosing.
