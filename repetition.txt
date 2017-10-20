@@ -49,12 +49,12 @@ We can choose to, quite deliberately, take out all of the spaces...
 0124567899001235799801234570843150
 ...and, now, the decoder doesn't know where one word starts/or, ends;
 as there are no spaces to, quite clearly, indicate that.
-Nor can the see any clearly repeating stand alone: 01's, anymore;
+Nor can they see any clearly repeating stand alone: 01's, anymore;
 to indicate either 'a'/or,'i'.
 
 Another thing the encoder can do is to...mix both letters/numbers...;
 so, using: Alphabet letter number codes: A=01/B=02/-etc.;
-change a few of these numbers into becoming letters, instead: 9=I/2=B/7=G/-etc.
+change a few of these numbers into becoming letters, instead: 2=B/7=G/9=I/-etc.
 01B45678I9001235G9I801234570843150
 maybe, to confuse matters even more, 
 include a mixture of both upper case/lower case: 2=b
@@ -66,9 +66,16 @@ as the patterns aren't so easily detectable and clear...?
 -----
 
 One might also choose to 're-arrange' the code....;
-by writing it backwards instead of going fowards/-etc. 
+by writing it backwards instead of going forwards/-etc. 
 
 Or, possibly, every 5 characters: write it going forwards;
-and, then, every next 5 characters: write it going backwards;
--etc. etc.
+and, then, every next 5 characters: write it going backwards.
 
+Instead, of using the rather obvious: A=1/(1st letter of the alphabet);
+why not use A=1(+1)/so, that now A=2(B).
+
+Etc.
+
+Thus, the encoding process consists of adding on 'layer after layer' of complexity;
+the decoding process involves first finding out what each layer is;
+and, then, stripping out 'layer after layer'...until when the 'plain text' is found.
