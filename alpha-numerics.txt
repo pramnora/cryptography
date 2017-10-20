@@ -40,6 +40,14 @@ as the code could be very easily be mis-interpreted to mean...
 111 = (A=1,A=1,A=1)?
 Q: Which letter is it? A: We really don't know?!
 
+A similar problem arises whenever we get a numbers arrangement like this:
+2112
+...again, which numbers are they? Could it be...
+(21)/(12)
+or, (2)/(11)/(2)
+or, (21)/(1)/(12)
+?
+
 There are two possible ways around this in order to quite clearly be able to distinguish what is one number from the next...
 
 a> Add either a separator symbol such as a comma: (,)/or, alternatively, add a space: " " in between each number/or, set of numbers: 
