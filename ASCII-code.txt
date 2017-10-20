@@ -22,7 +22,29 @@ Thus, we get...
 
 -----
 
-It might also be very well worthwhile noting that in ASCII code digits: 0-9 are represented by numbers: 48-57/(ln+47);
-and, also, lower case letters are represented by numbers: 97-122/(ln+96).
+Basically, ASCII numbers range from: 0-255.
+
+Digits: 0-9 are represented by numbers: 48-57/(ln+47);
+Lower case letters are represented by numbers: 97-122/(ln+96).
+
+It might also be very well worthwhile noting 
+that ASCII is used to represent every 'visible' keyboard: 
+        number/letter/symbol/function key/
+        backspace/delete/spacebar: 32/exclamation mark: 33/-etc.
+
+There are also totally 'invisible' ASCII number codes...which are, in fact, 'hidden'; 
+and, therefore, cannot be quite clearly observed by merely looking at the keyboard; 
+because on the keyboard those 'hidden' ASCII numbered characters
+simply do NOT exist, at least, on the 'surface'!
+
+-----
+
+LINKS
+
+NOTE: In order to see the full ASCII numbers set...; 
+why not go check out the related Wikipedia page article:
+https://en.wikipedia.org/wiki/ASCII
+
+-----
 
 ABBREVIATIONS: ln = letter number
