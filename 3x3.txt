@@ -71,7 +71,9 @@ So, now, we get...
 
 -----
 
-Taking the previous example even further still...; and, using both a full set of numbers: 0-9; and, also, a full set of alphabet letters: A-Z...
+Taking the previous example even further still...; a
+and, using both a full set of numbers: 0-9; 
+together with a full set of alphabet letters: A-Z:
 
                           X   Y   Z
                           U   V   W
