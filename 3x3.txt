@@ -71,6 +71,40 @@ So, now, we get...
 
 -----
 
+Taking the previous example even further still...; and, using instead a full set of numbers: 0-9; and, also, a full set of alphabet letters: A-Z...
+
+                          X   Y   Z
+                          U   V   W
+                          R   S   T
+                          O   P   Q   
+                          L   M   N
+                          I   J   K     
+                          F   G   H  
+                          C   D   E
+                          0   A   B
+                          7   8   9
+                          4   5   6
+                          1   2   3
+  
+X U R O L I F C 0 7 4 1   1   2   3
+  
+Y V S P M J G D A 8 5 2   4   5   6
+  
+Z W T Q N K H E B 9 6 3   7   8   9
+
+Now, each row, column has a choice numbers/letters to select from ranging from: 1 to 12 possibilities: Eg. row(1-12),col(1-12). 
+
+  P = 16th letter of the alphabet: row(1)=0,column(1)=R - row(2)=Y,column(3)=Q/0RYQ
+  A = 1st letter of the alphabet: single number prefix with: 00 - row(1)=1,column1(1)=I/001I
+  U = 21st letter of the alphabet: row(1)=F,column(2)=G - row(1)=4,column(1)=L/FG4L
+  L = 12th letter of the alphabet: row(1)=X,column(1)=O - row(1)=C,column(2)=J/XOCJ
+
+So, now, we get...
+
+0RYQ001IFG4LXOCJ
+
+-----
+
 1> RANDOM NOISE 
 
 We could try tossing in some 'random noise' to the above; such as adding the number: 0; 
