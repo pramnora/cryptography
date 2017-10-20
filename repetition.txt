@@ -60,7 +60,15 @@ maybe, to confuse matters even more,
 include a mixture of both upper case/lower case: 2=b
 01B456g8I9001235G9I801b3457084c150
 ...and, so on...
-Now, it's much less easy to see/understand what these codes might mean..? 
+Now, it's much less easy to see/understand what these codes might mean;
+as the patterns aren't so easily detectable and clear...? 
 
+-----
 
+One might also choose to 're-arrange' the code....;
+by writing it backwards instead of going fowards/-etc. 
+
+Or, possibly, every 5 characters: write it going forwards;
+and, then, every next 5 characters: write it going backwards;
+-etc. etc.
 
