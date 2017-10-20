@@ -1,6 +1,11 @@
 One coding ingredient concerns the question of 'length'.
 
-Basically, the 'length' can have 2 variations...either 'fixed' length/or else, 'variable' length, instead.
+Basically, the 'length' can have 2 variations, either:
+
+1> 'fixed' length
+2> 'variable' length
+
+-----
 
 For example,... 
 A=1/1st alphabet letter
