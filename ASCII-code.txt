@@ -1,6 +1,6 @@
 There is a computing standard known as ASCII/American Standard Code for Information Interchange.
 
-This code represents upper case letters of the alphabet as being numbers: 65-90.
+This code represents upper case letters of the alphabet as being numbers: 65-90/(ln+64).
 
 The maths involved is fairly simple...
 
@@ -19,3 +19,10 @@ Letter L = position 12 in the alphabet...so, n + 64 = 12 + 64 = ASCII code numbe
 Thus, we get...
 
 80658576
+
+-----
+
+It might also be very well worthwhile noting that in ASCII code digits: 0-9 are represented by numbers: 48-57/(ln+47);
+and, also, lower case letters are represented by numbers: 97-122/(ln+96).
+
+ABBREVIATIONS: ln = letter number
