@@ -27,3 +27,13 @@ C=9/3rd alphabet letter
 Generally speaking, in computer programming a string of 'numbers/characters' can be anything up to 255 in length;
 however, there is no strict rule which says one cannot join or 'con-catenate' strings together...;
 thus, making a whole series of joined up strings to be any arbitrary length of your own choosing.
+
+-----
+
+So, for example, you could have a single letter: 'A'...;
+which has been encoded as becoming a random series of 'numbers/characters' totaling 255+ in length.
+
+This would make the code very difficult, indeed, for us humans to read...; 
+however, computer which work at 'electronic' speeds could read and understand it both quickly and easily;
+which, in turn, implies that certain codes only computers are truly capable of creating/reading/interpreting;
+and, it's for these same reasons, why many coders are, in fact, also, 'computer programmers'.
