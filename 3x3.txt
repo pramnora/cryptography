@@ -120,6 +120,10 @@ So, now, we get...
 
 2> RANDOM NOISE 
 
+Starting with example 2 above...
+
+47590075147148
+
 Of course, we could equally have chosen to include all sorts of other random noise, as well; 
 such as, letters both uppercase/lowercase; as well as, symbols/-etc.
 
