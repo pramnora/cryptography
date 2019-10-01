@@ -122,8 +122,28 @@ gzj = email(google)/filename(z)/filetype(.jpg)
 
 -----
 
-Another possiblity I can think of is...inside of using distributed files...;
+
+Another possiblity I can think of is...instead of using distributed files...;
 one could refer to a book...which uses all of the alphabet letters: A-Z;
 then, refer to book edition number/date/pub name/author name/book title : page 1/row 2/14 letters across:
 1,2,14
 ...and, so on.
+
+Or, even distributed web page resources: prose/poetry/song/-etc. 
+(In this way you don't even need to write any files, yourself; as everything has already been pre-written for you.)
+
+CONCLUSION
+
+So, this discusssion seems to have gone from...
+
+-> Split data
+-> Distributed files
+-> Distributed file resources
+
+Always, it's necessary to carefully 'catalogue' stuff...; so, that one can easily refer back to it, later.
+
+(Of course, there is many another possiblity I can think of...which I won't even bother to go mention here...
+ as I don't wish this file to go on and on for far too long. 
+ My real intention...is not to worry too much about going into exact 'specifics';
+ but, rather to just discuss just this topic in 'general'.)
+ 
