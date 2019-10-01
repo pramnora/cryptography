@@ -28,11 +28,17 @@ z.jpg
 
 NOTE:  Either of these file types can contain 'text'...
 
-> A [.html] file can contain 'hidden' text messages somewhere; possibly, through the use of HTML code comments/or, in the linked to files: [.js]/[.css]/[.json]/[.xml]/-etc.
+> A [.html] file can contain 'hidden' text messages somewhere; 
+possibly, through the use of HTML code comments/or, in the linked to files:
+[.js]/[.css]/[.json]/[.xml]/-etc.
 
-> A rich text file [.rtf]...which can include colours...can have the writing colour changed to match the background colour...thus, creating 'invisible' text. Or, a plain text file...could simply include text somewhere: end/beginning/middle...which is plain to read; but, 'abstract'?! Or, the text is made to display in such as way...as to make it relatively invisible...extremely 'small' text.
+> A rich text file [.rtf]...which can include colours...can have the writing colour changed to match the background colour...;
+and, thus, creating 'invisible' text. Or, a plain text file...could simply include text somewhere: end/beginning/middle...
+which is plain to read; but, 'abstract'?! 
+Or, the text is made to display in such as way...as to make it relatively invisible: extremely 'small' text.
 
-> A [.jpg/.gif/.png] file...could also contain 'hidden' text in there somewhere(again, possibly, code comments could be used which doesn't actually display as picture output).
+> A [.jpg/.gif/.png] file...could also contain 'hidden' text in there somewhere#
+(again, possibly, code comments could be used which doesn't actually display as picture output).
 
 In short, there are many different ways of including 'hidden' text within files.
 
