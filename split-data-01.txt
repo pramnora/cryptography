@@ -88,4 +88,31 @@ but, was regarding an entirely different subject, altogether.
 "Hi John, how are you keeping? I enclose an attachment of our latest holiday pic."
 ...And, it's also possible to use multiple different email providers such has:
 iCloud/Hotmail/GMail/Yahoo/Mail.com/-etc.
- 
+
+-----
+
+Taking things to the extreme...
+
+It would be possible to store each letter of a message...inside of the message length number of files...so,...
+
+T would be stored in one seperate file
+h would be stored in another seperate file
+i would be stored in another seperate file
+s would be stored in another seperate file
+...then, these files could be randomly distributed.
+
+-----
+
+The difficulty I can see here is...eventually, the 'encoder' themselves might forget...
+> where each file was stored
+> what was the exact file order of arrangment
+...so, there would have to be a record kept somewhere stating...
+> what file is being kept where
+> what is the precise file re-arrangement process
+...something like...
+email service/filename/filetype 
+hxhyytgzj 
+where...
+hxh = email(hotmail)/filename(x)/filetype(.html)
+yyt = email(yahoo)/filename(y)/filetype(.txt)
+gzj = email(google)/filename(z)/filetype(.jpg)
