@@ -112,7 +112,8 @@ iCloud/Hotmail/GMail/Yahoo/Mail.com/-etc.
 (NOTE: You could even choose to use just 'one' email...which includes 'mutliple' different file attachments(.txt/.html/.jpg);
        but, then, of course, these files would no longer be 'distributed'; as they remain all in the one same place.)
 
-(NOTE: As well as, files being distributed on the computer, either locally/or, via the internet/one mustn't forget there is also 'real life' distrubution of files offline, as well.)
+(NOTE: As well as, files being distributed on the computer, either locally/or, via the internet; 
+       one mustn't forget there is also 'real life' distrubution of files offline, as well.)
 
 -----
 
