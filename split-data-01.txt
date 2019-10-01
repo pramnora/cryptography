@@ -1,0 +1,91 @@
+Created: 011019 20:31 PM GMT
+Updated: 011019 20:31 PM GMT
+
+Here I propose to use 2 different techniques...
+
+1> Data hiding
+2> Split data
+
+Data hiding technique...
+
+Using Windows OS, the general file naming convention is as follows...
+
+SYNTAX
+
+Filename + seperator dot + filename extension
+
+...or,...
+
+anyfilename.anyfilenameextension
+
+ACTUAL EXAMPLE FILES
+
+x.html
+y.txt
+z.jpg
+
+SPLIT DATA
+
+Let's say the plain text message is:
+
+This is a secret message.
+(completely ignoring any punctuation/or, casing)
+
+We could split up this string into 3 parts...
+
+1st letter | 2nd letter | 3rd letter
+ T               h             i
+ s               i             s
+ a               s             e
+ c               r             e
+ t               m             e
+ s               s             a
+ g               e             x
+ 
+ NOTE: If the string itself doesn't exactly divide up into 3...then, we pad the rest of the string using: x's 
+ (or, any random letters, if you wish) 
+
+So, we now get the following code...and, save it into 3 different files...and, each of a different file type:
+
+encoded text - filename
+
+tsactsg - x.html
+hisrmse - y.txt
+iseeeax - z.jpg
+
+NOTE: It would have been possible to further encode each letter as: written backwards/numbers/binary code/-etc.; 
+however, I wish to keep this particular example being as simple and straight forwards as is possible;
+therefore, I will not try and use any further encoding methods.
+
+We can further make the file's secret message even more secure by hiding each file in different places on the HDD/Hard Disk Drive.
+
+C:\windows\desktop\html\web pages\x.html
+C:\windows\temp\y.txt
+C:\windows\pictures\photos\jpg\z.jpg
+
+Now, the difficulties for the 'decoder' is...
+
+1> Which 'type' of file stores the code...? (It might not be quite as obvious as: [.txt])
+...and, even, if they did manage to work out...which 'types' of files...
+finding just 'one' file would not be enough; instead, they would need to find ALL of the files...
+2> How 'many' files are there...?
+...even if they were to find out how 'many' files...; that, too, wouldn't be enough...
+3> What is the correct file 'order' arrangement...? 
+they would also need to know in which particular order the files were written 
+in order to successfully be able to join together/and, thus, re-arrange these...
+for the message to make any sort of real sense.
+
+A further level of difficulty could be added...by distributing the files all over the internet...
+For example...
+The [.txt] text file, could be stored somewhere inside of an email box; hidden in amongst 1000+ other emails.
+The [.jpg] graphic file, could be stored somewhere inside of Fickr; hidden in amongst 1000+ other picture files.
+The [.html] web page file, could be stored somewhere inside of GitHub; hidden in amongst 1000+ other web pages files.
+-etc.
+
+Yet, another possibility would be to include files as being a series of 'hidden' email attachments; 
+where the main email message made perfect sense...;
+but, was regarding an entirely different subject, altogether.
+"Hi John, how are you keeping? I enclose an attachment of our latest holiday pic."
+...And, it's also possible to use multiple different email providers such has:
+iCloud/Hotmail/GMail/Yahoo/Mail.com/-etc.
+ 
