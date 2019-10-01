@@ -57,6 +57,10 @@ We could split up this string into 3 parts...
  NOTE: If the string itself doesn't exactly divide up into 3...then, we pad the rest of the string using: x's 
  (or, any random letters, if you wish) 
 
+NOTE: It would have been possible to further encode each letter as: written backwards/numbers/binary code/-etc.; 
+however, I wish to keep this particular example being as simple and straight forwards as is possible;
+therefore, I will not try and use any further encoding methods.
+
 DISTRIBUTED FILES: LOCAL DISTRIBUTION/INTERNET DISTRIBUTION
 
 So, we now get the following code...and, save it into 3 different files...and, each of a different file type:
@@ -66,10 +70,6 @@ encoded text - filename
 tsactsg - x.html
 hisrmse - y.txt
 iseeeax - z.jpg
-
-NOTE: It would have been possible to further encode each letter as: written backwards/numbers/binary code/-etc.; 
-however, I wish to keep this particular example being as simple and straight forwards as is possible;
-therefore, I will not try and use any further encoding methods.
 
 We can further make the file's secret message even more secure by hiding each file in different places on the HDD/Hard Disk Drive.
 
@@ -112,13 +112,17 @@ iCloud/Hotmail/GMail/Yahoo/Mail.com/-etc.
 
 Taking things to the extreme...
 
-It would be possible to store each letter of a text message...inside of the message length number of files...so,...
+It would be possible to store each letter of a text message...
+inside of the message length number of files...so,...
 
 T would be stored in one seperate file
 h would be stored in another seperate file
 i would be stored in another seperate file
 s would be stored in another seperate file
 ...then, these files could be randomly distributed.
+
+Thus, a hundred letter text message...would lead to both the creation/distribution of 100 files...! 
+
 
 -----
 
@@ -165,5 +169,5 @@ Always, it's necessary to carefully 'catalogue' stuff...; so, that one can easil
 (Of course, there is many another possiblity I can think of...which I won't even bother to go mention here...
  as I don't wish this file to go on and on for far too long. 
  My real intention here...is not to worry too much about going into exact 'specifics';
- but, rather to just discuss just the topic in 'general'.)
+ but, rather to discuss just the topic in 'general'.)
  
