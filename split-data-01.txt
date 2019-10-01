@@ -89,6 +89,9 @@ but, was regarding an entirely different subject, altogether.
 ...And, it's also possible to use multiple different email providers such has:
 iCloud/Hotmail/GMail/Yahoo/Mail.com/-etc.
 
+(NOTE: You could even choose to use just 'one' email...which includes 'mutliple' different file attachments(.txt/.html/.jpg);
+       but, then, of course, these files would no longer be 'distributed'; as they remain all in the one same place.)
+
 -----
 
 Taking things to the extreme...
