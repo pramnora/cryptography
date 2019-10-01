@@ -1,10 +1,12 @@
 Created: 011019 20:31 PM GMT
 Updated: 011019 20:31 PM GMT
 
-Here I propose to use 2 different techniques...
+Here I propose the use of  4 different techniques...
 
 1> Data hiding
 2> Split data
+3> File distribution
+4> Cataloguing
 
 Data hiding technique...
 
