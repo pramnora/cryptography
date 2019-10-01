@@ -119,3 +119,11 @@ where...
 hxh = email(hotmail)/filename(x)/filetype(.html)
 yyt = email(yahoo)/filename(y)/filetype(.txt)
 gzj = email(google)/filename(z)/filetype(.jpg)
+
+-----
+
+Another possiblity I can think of is...inside of using distributed files...;
+one could refer to a book...which uses all of the alphabet letters: A-Z;
+then, refer to book edition number/date/pub name/author name/book title : page 1/row 2/14 letters across:
+1,2,14
+...and, so on.
