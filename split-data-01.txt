@@ -60,10 +60,14 @@ We could split up this string into 3 parts...
  s               s             a
  g               e             x
  
- NOTE: If the string itself doesn't exactly divide up into 3...then, we pad the rest of the string using: x's 
- (or, any random letters, if you wish) 
+NOTE(1): If the string itself doesn't exactly divide up into 3...then, we pad the rest of the string using: x's 
+(or, any random letters, if you wish) 
 
-NOTE: It would have been possible to further encode each letter as: written backwards/numbers/binary code/-etc.; 
+NOTE(2): Here is a link to a QBASIC/(QB64) program I wrote which creates the same above text string.
+
+https://github.com/pramnora/qb64/blob/master/strings3.bas
+
+NOTE(3): It would have been possible to further encode each letter as: written backwards/numbers/binary code/-etc.; 
 however, I wish to keep this particular example being as simple and straight forwards as is possible;
 therefore, I will not try and use any further encoding methods.
 
