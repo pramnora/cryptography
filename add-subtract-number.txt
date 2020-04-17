@@ -1,7 +1,7 @@
 Created: Fri April 17th 2020 11:19 AM GMT
 Updated: Fri April 17th 2020 11:19 AM GMT
 
-This rather simple encryption/decryption scheme involves...
+This symmetrical encryption/decryption scheme involves...
 
 A> Adding a number key to encode             - A=1/(+5)/A=6
 B> Subtracting the same number key to decode - 6(-5) = 1=A
