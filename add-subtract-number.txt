@@ -3,8 +3,8 @@ Updated: Fri April 17th 2020 11:19 AM GMT
 
 This rather simple encryption/decryption scheme involves...
 
-A> Adding a number key to encode             - A=1/+5/A=6
-B> Subtracting the same number key to decode - 6-5 = 1=A
+A> Adding a number key to encode             - A=1/(+5)/A=6
+B> Subtracting the same number key to decode - 6(-5) = 1=A
 
 Use of different random numbers to match the whole of the entire message length.
 
@@ -21,7 +21,10 @@ L = 12/12+89=101  -  101-89=12  = 12
 
 Message encoded: 21,46,921,101
 
-NOTE: It is necessary to keep a note of not just the encoded message itself;
-      but, also, it's list of 'random numbers'; because, if either of these is lost...
-      then, it would not be possible to decode the message, anymore?!
+NOTE: It is necessary to keep a note of both...
+
+      - the encoded message
+      - the list of 'random numbers'
+
+...because, if either of these is lost; then, it wouldn't be possible to decode the message, anymore?!
 
