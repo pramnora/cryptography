@@ -30,3 +30,4 @@ NOTE: It is necessary to keep a note of both...
 then, it wouldn't be possible to decode the message, anymore?!
 
 PROBLEM: It encodes letters: A-Z/1-26 very well; but, how to encode 0...?!
+Actually, it could encode 0; because, if with start with 0 then, add a +1; then, 1-1=0.
