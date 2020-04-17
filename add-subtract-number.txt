@@ -8,6 +8,18 @@ B> Subtracting the same number key to decode - 6-5 = 1=A
 
 Use of different random numbers to match the whole of the entire message length.
 
+Example:
+
+Message: P A U L
+Random keys: 5,45,900,89
+
+     Encoding          Decoding
+P = 16/16+5=21    -  21-5=16    = P 
+A = 1/1+45=46     -  46-45=1    = A
+U = 21/21+900=921 -  921-900=21 = U
+L = 12/12+89=101  -  101-89=12  = 12
+
 NOTE: It is necessary to keep a note of not just the encoded message itself;
       but, also, it's list of 'random numbers'; because, if either of these is lost...
-      then, it would not be possible to decode, anymore?!
+      then, it would not be possible to decode the message, anymore?!
+
