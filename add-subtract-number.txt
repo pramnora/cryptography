@@ -1,0 +1,13 @@
+Created: Fri April 17th 2020 11:19 AM GMT
+Updated: Fri April 17th 2020 11:19 AM GMT
+
+This rather simple encryption/decryption scheme involves...
+
+A> Adding a number key to encode             - A=1/+5/A=6
+B> Subtracting the same number key to decode - 6-5 = 1=A
+
+Use of different random numbers to match the whole of the entire message length.
+
+NOTE: It is necessary to keep a note of not just the encoded message itself;
+      but, also, it's list of 'random numbers'; because, if either of these is lost...
+      then, it would not be possible to decode, anymore?!
