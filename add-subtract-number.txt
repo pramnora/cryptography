@@ -29,3 +29,4 @@ NOTE: It is necessary to keep a note of both...
 ...because, if either one of these very important items is lost; 
 then, it wouldn't be possible to decode the message, anymore?!
 
+PROBLEM: It encodes letters: A-Z/1-26 very well; but, how to encode 0...?!
