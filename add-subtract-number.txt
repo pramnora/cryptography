@@ -26,5 +26,6 @@ NOTE: It is necessary to keep a note of both...
       - the encoded message
       - the list of 'random numbers'
 
-...because, if either of these is lost; then, it wouldn't be possible to decode the message, anymore?!
+...because, if either one of these very important items is lost; 
+then, it wouldn't be possible to decode the message, anymore?!
 
