@@ -1,0 +1,187 @@
+  ARTICLE: Base number rules
+ COMPUTER: Home based PC
+       OS: Windows 10 Professional
+   EDITOR: Notepad
+----------------------------------------------------------
+   AUTHOR: Mr. Paul Ramnora 
+    EMAIL: pramnora@yahoo.com
+ LOCATION: London, UK
+COPYRIGHT: (c)2020-, Mr. Paul Ramnora./All right reserved. 
+----------------------------------------------------------
+  CREATED: 13:35 30/05/2020
+  UPDATED: 13:35 30/05/2020
+----------------------------------------------------------
+Preamble...
+
+In our normal everyday usage of numbers; we, mostly, tend to deal with 
+base 10 numbers/otherwise, known as being called: 'decimal' numbers.
+
+Computers at the base level deal with something called: 
+base 2 numbers/also, known as being called, 'binary' numbers/or, 'binary' code.
+
+Another 2 well known base numbers that computer programmers tend to work with are:
+- Octal/Base 8
+- Hexadeciamal/Base 16 
+
+It's also possible to work with other number bases, as well; including: 3,4,5,6,-etc.;
+or, indeed, any base number you please.
+
+This article aims to explain how it's possible to construct your own...
+A> Base number header
+B> Base number digits  
+C> How to calculate...multiply/add up...the base number digits sum;
+   so that you can know what the encoded series of digits means.
+-------------------------------------------------------------------------------------
+A> First, construct a list of 'header'/or, place number values....
+
+1> the first header number starts at 1...n=1 
+
+   (the lowest number being written on the 'rightmost' side;
+    also, known as being called: the least significant digit/LSD)
+
+2> the 2nd header number is baseN* whatever is the header number on the right/and, so on... 
+
+   (note: in the case of the 2nd number this will always be baseN itself)
+
+3> with eacn next heading number sequentially moving off to the left. 
+
+   (the highest heading number being written on the 'leftmost' side/
+    also, known as being called the most significant digit/MSD)
+
+Example:
+  base 2 header:       8 4 2 1  (1x1=1,2x1=2,2x2=4,2x4=8/...)
+  base 3 header:      27 9 3 1  (1x1=1,3x1=3,3x3=9,3x9=27/...)
+ base 10 header: 1000 100 10 1  (1x1=1,10x1=10,10x10=100,10x100=1000/...)
+
+   (Rule: Apart from 1x1, which is multipled by itself/
+          multipling the base number by the number on the right,
+          each time produces the next number in the header series.)
+
+Dealing with the numbers 1/and, 0...
+
+NOTE: The lowest number in a base number 'header' system is: 1
+(1x1) = 1
+...or, in other words all base number headers start counting up from: 1
+
+NOTE: So, one might ask oneself, if the lowest header number is: 1,
+      how then would one represent the number, 0?
+Example:
+base number 10/header:  1000 100 10 1
+ base number 10/digit:              0 (0x1/1x0 = 0)
+....this means...there are 0 x 1/or, 1 x 0 digits...which = 0.
+(read: no 1's equals nothing/or, 1 of 0...equals nothing)
+
+In actual fact, a 0 in any header column = 0.
+Example:
+base number 10/header:  1000 100 10 1
+ base number 10/digit:  0    0   0  0 (0x1000=0,0x100=0,0x10=0,0x1=0)/0+0+0+0=0/4x0=0
+-------------------------------------------------------------------------------------
+B> Second, write in the digits...
+
+4) With the place value header all done/
+   next, comes writing down the digits
+   which are written beneath each header column number;
+   thus, indicating their place of significance/
+   (or, what each digit number is, actually, worth).
+
+   NOTE(1): Each digit/or, set of digits:
+            (some bases can have multiple digits to represent a single number)
+            never actually reaches up to becoming baseN itself;
+            but, instead, lies somewhere in between the range: 0 up to baseN-1
+
+            The lowest number inside of any base number 'digit' system
+            will always start of as being: 0. 
+
+            In order to discover what is the 'highest number' 
+            in a base number 'digit' system; the formula is: baseN-1.
+
+            Examples:
+                           highest single digit number
+            base 2 = (2-1) = 1
+            base 3 = (3-1) = 2
+            base 4 = (4-1) = 3
+            ...
+            base 10 = (10-1) = 9
+            base 11 = (11-1) = 10
+            base 12 = (12-1) = 11
+            ...
+            base 99 = (99-1) = 98
+            -etc.
+
+   NOTE(2): If a place header number written off to the left
+            is NOT actually being used;
+            then, one can just simply ignore it;
+            however if that 'empty' place header number
+            comes in the middle of the number;
+            then, write 0.  
+
+Example:
+ base 10/header: 10000 1000 100 10 1
+         digits:       1    0   9  0
+ (...where the 10000 header column is completely 'ignored'; 
+     because it wasn't actually used.) 
+-------------------------------------------------------------------------------------
+C> Decoding a series of base number digits is a 2 step process which employs
+   a mixture of...
+
+   1- multiplication
+   ...followed by...
+   2- addition
+
+   1> First start with the MSD/Most significant digit ('leftmost' side)
+      then, multiply that digit by it's current header place value,
+      which is written on top of the digit
+   2> then, that sum will be written down and stored, separately
+      (to be, later on, added up with all the other digits you've stored)
+   3> continue steps 1/2...gradually, moving along going column by column
+      towards the LSD/Least significant digit ('rightmost' side);
+      until when the final LSD is reached.     
+
+   =(NOTE: If a digit says: 0; then, simply, ignore it;
+           and, instead, move on to the next non-zero digit on the right;
+           until you've reached the end of the digits sum (rightmost side)-
+Example:
+ base 10
+     1000 100 10 1
+     1    0   9  0
+     ^
+     |------------>   1000 (1x1000)
+              ^  
+              |--->   + 90 (9x10)      
+                      ----
+                      1090  
+-------------------------------------------------------------------------------------
+Here are some other calculations using both 'headers/digits';
+all of which 'digit sums' do add up to become the number: 10.
+
+(left: MSD/right: LSD)
+base 10         
+100000 10000 1000 100 10 1
+                      1  0 =  10
+base 2
+     128 64  32  16  8  4  2  1
+                     1  0  1  0 = 10
+base 3 
+                     27 9  3  1
+	                2  0  1 = 10
+base 4 
+                     64 16  4  1
+	                    2  2 = 10
+base 5
+		  125  25  5   1
+                           2   0 = 10
+-etc.
+-------------------------------------------------------------------------------------
+In order to check the above sums are correct;
+you can either write a computer program to test it...;
+or, otherwise, use a calculator, instead;
+calculators can, usually, check:
+- binary/(base 2)
+- octal/(base 8)
+- hexadecimal/(base 16/digits: 0-F)
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+								
