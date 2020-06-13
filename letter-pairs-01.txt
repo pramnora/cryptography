@@ -1,0 +1,86 @@
+Created: 09:08 13/06/2020
+Updated: 09:08 13/06/2020
+---------------------------------------------------------------------------------------
+I would like to propose the following encoding/decoding scheme...
+
+A repeatedly 'changing' selection of significant letters...
+using all 26 alphabet letters going from: A-Z.
+
+The 'significant' letters starts out as being letter pairs: AB;
+then, the next pair of letters, moves on to become: CD;
+...and, so on...
+until when, finally, letters: YZ are reached;
+then, the whole cycle starts off repeating, again, going from: AB.
+-(or, it could bounce backwards: ZY-XV-UT-etc.)-
+-----
+Using  a 'fixed# message length; 
+the first 10 characters in the message could show as:
+AXYRB NUTVM
+...where only letters 'A/B' are significant;
+the next 10 characters in the message could show as:
+MUCAD BFDRO
+...where only letters 'C/D' are significant;
+...and, so on.
+-----
+NOTE: Where letters repeat...only the first 2 are considered significant.
+so, AAAABBBB, only the first A/B are signficant.
+-----
+aAAAa BBbBb
+NOTE: You could also have a state where CASE is significant; 
+so, a doesn't matter only capital: 'A' counts;
+or else, you could have a toggle between states:
+where the first capital: 'A', now, toggles on lower case: 'a', as being significant;
+and, so on repeatedly bouncing back and forth between these two.
+-----
+Using  a fixed message length of 5; 
+1234512345123451234512345123
+RQBMAGLTAZRGBBQFZSNCRJYDXLLU
+...only letters 'A/B' are significant;
+...the first B is insignificant...because it doesn't start the alphabet/instead, A starts...
+A = 5, because it is in the 5th position
+...the, 12345 counter now resets itself...
+B = 3, because it is in the 3rd position
+...the 2nd B -coming after A- doesn't count/only the first B counts as significant...
+-(...the, next letter pair we'd would look for is: C/D: 5/4 ='X'/-etc.)-
+But, so far we got: row (A/5) - Column (B/3)
+= row/column(5/3) = 'W' in chart below;
+where in order to obtain a letter
+you first have to select a row number/
+then, followed by a column number. 
+-----
+    1 2 3 4 5
+    - - - - -
+1 - A B C D E
+2 - F G H I J
+3 - K L M N O
+4 - P Q R S T
+5 - U V W X Y/Z
+-----
+To make the order more random-like; we could use a keyword based number length
+if the keyword were:
+ P  A  U  L
+ 16 01 21 12
+...then, the numbers sequence: 0102030405 
+might start counting just after number: 16/
+then next start counting from just after number: 01/
+...and, so, the number counter gets toggled both on/off/-etc.
+                               P           A   
+010203040506070809101112131415160102030405010102030405
+ a 2 4 z y m u g r p q f u z b l s T a X r H i k 1 b B  
+                                     A=3           b=4
+                                     Row: 3        Col: 4 = letter: N
+---------------------------------------------------------------------------------------
+09:41 13/06/2020 
+I think it should be possible to construct a computer program...
+which asks the user for inputs, namely...
+
+Message to encode:
+Keyword:
+Bounce A-Z/Z-A: Y/N?
+Toggle casing: Y/N?
+...and, so on...
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
