@@ -39,5 +39,8 @@ Encoded message:
 2008091909190119050318052013051919010705 (original)
 203872086409991988092719320144197305980364186105552030138205591973801947012807960500 (with random noise added in)
 
+NOTE: One could also have chosen to sprinkle in some text characters: a-z/A-Z/or, even, punctuation symbols: *"!&/-etc.;
+      all of which is entirely meaningless...just adding in more 'random noise'.
+
 
 
