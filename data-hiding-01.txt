@@ -1,3 +1,8 @@
+Created: Sat 210924 15:34 PM GMT
+Updated: Sat 210924 15:34 PM GMT
+
+-----
+
 If we think of a number say for simplicyt sake, 10.
 
 Then, choose any two numbers that can be combined together to make up the number: 10...
