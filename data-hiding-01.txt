@@ -1,0 +1,17 @@
+If we think of a number say for simplicyt sake, 10.
+
+Then, choose any two numbers that can be combined together to make up the number: 10...
+A: 1,9
+B: 2,8
+C: 3,7
+D: 4,6
+E: 5,5
+...then, immediately, we can see that though there are, at least, 5 different ways to arrive at the number totalling: 10;
+yet, it's not so easy to state precisely which 2 numbers were used to get there...?
+It could be any of 5 different routes.
+
+Similarly, if that number were higher in total...say, 100/or, 1000/-etc.; 
+then, the amount of possible 2 number routes that could be used to get there...
+would be even more.
+
+This is a form of 'data-hiding- technique.  
