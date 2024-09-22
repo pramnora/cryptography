@@ -1,5 +1,5 @@
 Created: Sat 210924 15:34 PM GMT
-Updated: Sat 210924 15:34 PM GMT
+Updated: Sat 220924 06:56 AM GMT
 
 -----
 
@@ -27,3 +27,11 @@ Of course, it's also possible to extend this number totalling method to include 
 ...or, 4 different numbers...
 2+3+1+4
 -etc.
+
+-----
+
+So, you could have 3 different password levels...
+
+Level 1: 10
+Level 2: C
+Level 3: 37
