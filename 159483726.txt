@@ -2,8 +2,9 @@ Created: Sun 220924 07:04 AM GMT
 Updated: Sun 220924 07:05 AM GMT
 -----
 I first stumbled across the number: 159483726;
-by adding up the repeating 4's in successive numbers...;
-starting from the number 1:
+by adding up the 4's in successive numbers...;
+starting off from the number 1;
+and, then, I discovered that the number, in fact, 'repeats'.
 
 -(NOTE: If a number consists of multiple digits;
 then, you just, repeatedly, add up each digit...
