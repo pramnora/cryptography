@@ -2,7 +2,14 @@ Created: Sun 220924 07:04 AM GMT
 Updated: Sun 220924 07:05 AM GMT
 -----
 I first stumbled across the number: 159483726;
-by adding up the repeating 4's in successive numbers:
+by adding up the repeating 4's in successive numbers...;
+starting from the number 1:
+
+-(NOTE: If a number consists of multiple digits;
+then, you just, repeatedly, add up each digit...
+until when it reduces down to becoming a single digit, instead;
+so, 21 becomes 2+1 = 3; and, so on...)-
+
 1 - 1
 2 
 3
