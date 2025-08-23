@@ -1,0 +1,34 @@
+CREATED: Sat 230825 15:27 PM GMT
+UPDATED: Sat 230825 15:27 PM GMT
+--------------------------------
+So, we have a file...which contains a random list of either: letters/words.
+
+Then, we have a separate but related file...which stores a list of numbers.
+
+Now, both of these files are related to one another...;
+in that the numbers file selects the exact letters/words in their correct order.
+
+EXAMPLE: random letters...
+FILE A: adgasfaOSDFGASSFAGBOAKDJSAO[]ADFA]
+FILE B: 1,6
+...so the selected letters are: 
+1=a
+6=f
+
+EXAMPLE: random words...
+FILE A: JAGGED OPEN closed WHEN ADDICT CLEAR
+FILE B: 3,2
+...so the selected words are:
+3=closed 
+2=OPEN
+
+So, in this scenario...an interceptor might find the file of random letters/words;
+or, alternatively, they might find the file of numbers...;
+but, without finding both files...; 
+they wouldn't know what is related to what...?
+
+
+
+
+
+
