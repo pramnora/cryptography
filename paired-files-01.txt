@@ -55,6 +55,34 @@ s, file number: 92/rndPos: 99
 We could also change letters into numbers...This = 20080919...(including numbers up to 00-99).
 And, the numbers file itself could be mixed in with one of these files going from 00-99.
 --------------------------------
+Actual application:
+
+Code word(s): This
+So, the task would be...
+Count how many letters inside of code string: 4
+Next, set a loop...counting from: 1 to 4...in order to grab each letter in code string length.
+
+Take the 1st letter of codeword: T
+now, generate some random text: a-Z,A-Z,0-9,punctuation characters
+next, stick that letter: T into that random text...noting it's position inside of the random text
+
+Then, generate a random number going from: 0-99;
+and, then, call that file: if 0->00.txt up to 99.txt
+
+Now, create a numbers file...
+and, that numbers file we store the data:
+fileNo,rndPos: 3742
+where it points to file no: 37/position: 42 (which points to the letter: T
+The numbers file itself has a random number: 00-99.txt(but, different from 37...so, there is no conflict).
+
+So, we have an array of numbers which stores all of the numbers already used;
+and, we next generate files going from: 00-99...each containing random text...;
+but, does NOT conflict with the already used numbers.
+
+So, we should find ourselves being left with...
+files: 00-99...all of which contains, apparently, random text...
+and, only one of which is the numbers decoder.
+
 --------------------------------
 --------------------------------
 --------------------------------
