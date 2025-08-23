@@ -29,6 +29,31 @@ or, alternatively, they might find the file of numbers...;
 but, without finding both files...; 
 they wouldn't know what is related to what...?
 --------------------------------
+VERSION 2
+
+Instead of just 2 files,
+one could have any number of files say: 0-99=100 different files;
+...so, first, we would generate 100 files: having numbers: 00-99/
+...and, each of these files containing a mixture of random letters.
+
+The numbers file will point to which: fileNo/letterPos
+
+Now, if we wish to encode the string: This
+...we would store each letter inside the string...into a different fileNo/filePos;
+...so,,. 
+T, file number: 00/rndPos: 10
+h, file number: 30/rndPos: 42
+i, file number: 50/rndPos: 64
+s, file number: 92/rndPos: 99
+...so, the numbers file might look like this:
+0010304250649299
+...where the first 2 digits do indicate: which file
+...where the next 2 digits do indicate: which rndPos in that file
+...so, now, the interceptor has to find...not just 2 files/but, multiple;
+...and, what if each of these files was stored inside of different places. 
+
+We could also change letters into numbers...This = 20080919...(including numbers up to 00-99).
+And, the numbers file itself could be mixed in with one of these files going from 00-99.
 --------------------------------
 --------------------------------
 --------------------------------
