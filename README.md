@@ -8,7 +8,7 @@ Beginner level cryptography techniques
 
 ## Example codes
 
-![Source code](pictures/simple-codes-01.png "Simple codes...")  
+![Simple codes](pictures/080726-2343-simple-codes-01.png "Simple codes...")  
 
 -----
 
