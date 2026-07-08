@@ -1,7 +1,14 @@
 # cryptography
 Beginner level cryptography techniques
 
-**Document last updated**: *Wed 8 Jul 2026 23:35 PM GMT*
+**Document last updated**:   
+*Wed 8 Jul 2026 23:35 PM GMT*  
+
+-----
+
+## Example codes
+
+![Source code](pictures/simple-codes-01.png "Simple codes...")  
 
 -----
 
