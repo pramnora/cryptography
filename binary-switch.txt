@@ -1,0 +1,44 @@
+Encoding methods(1/2):
+
+Encoding method: 1
+Alphabet halfed(ROT13)
+a b c d e f g h i j k l m
+n o p q r s t u v w x y z
+
+Encoding method: 2
+Full alphabet
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+z y z w v u t s r q p o n m l k j i h g f e d c b a
+--------------------
+key phrase: My name is, Paul.
+key phrase transformed: 
+lower case/remove any spaces/punctuation... 
+key phrase: mynameispaul
+
+Key:
+If alphabet letter number is even = 1
+If alphabet letter number is odd = 0
+
+m=13=0
+y=25=0
+n=14=1
+a=01=0
+m=13=0
+i=09=0
+s=19=0
+p=16=1
+a=01=0
+u=21=0
+l=12=1
+...produces the following binary codes:
+00100001001
+
+If the number is 0 then use encoding method: 1
+If the number is 1 then use encoding method: 2
+----------------------
+Plaintext: Paul
+0 - Encoding method 1 - p = k
+0 - Encoding method 1 - a = z
+1 - Encoding method 2 - u = f
+0 - Encoding method 1 - l = y
+ 
