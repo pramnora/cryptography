@@ -8,7 +8,7 @@ Table Of Contents:-
 1.1 - USE 4 DIGIT BIRTH DATE
 
 1.2 - USE NUMBERS THAT FOLLOWS SOME SORT OF STEP WISE 'LOGIC'
-1.2.1 - LOGIC(1)/MATHS BASED
+1.2.1 - LOGIC(1)/MATHS BASED (ADD/SUBTRACT...MULTIPLY/DIVIDE)
 
 1.3 - USE PURELY 'RANDOM' NUMBERS
 
@@ -65,7 +65,7 @@ Here, I'm going to show a different way to set up a PIN nos.
 as only in that way will the end user be able to work out for themselves
 what was the password they may otherwise might have completely forgotten...???)-
 -------------------------------------
-1.2.1 - LOGIC(1)/MATHS BASED
+1.2.1 - LOGIC(1)/MATHS BASED (ADD/SUBTRACT...MULTIPLY/DIVIDE)
 
 Step 1: Start with: Addition...; then, do its opposite, which is: Subtract
 Step 2: Next, change to doing 'fast' Addition: Multiply...; then, do its opposite, which is: Divide.
