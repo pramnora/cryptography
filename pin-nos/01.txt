@@ -12,7 +12,7 @@ Table Of Contents:-
 
 1.3 - USE PURELY 'RANDOM' NUMBERS/(AND, MNEMONIC -PICTURES/STORY- TECHNIQUE)
 
-1.4 - USE A MEMORABLE WORD.../THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER
+1.4 - USE A MEMORABLE WORD.../(THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER IF > 9)
 -------------------------------------
 1.1 - USE 4 DIGIT BIRTH DATE(FORWARDS/REVERSED/RANDOMISED)
 
@@ -112,7 +112,7 @@ I wack it straight back out there, again, by using a giant hockey stick(7).
 NOTE: The more colourful/and, highly absurd the story is...; 
 then, the easier it is to remember/(and, in actual fact, one just is NOT be able to forget such a colourful/and, absurd story...?!). 
 -------------------------------------
-1.4 - USE A MEMORABLE WORD.../THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER
+1.4 - USE A MEMORABLE WORD.../(THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER IF > 9)
 
 Another way to select 4 digit PIN nos. is to base it on a 4 letter word;
 then, reduce down any alphabet digit which is > 9...to become just 'one' number, alone.
