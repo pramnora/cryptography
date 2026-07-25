@@ -1,0 +1,67 @@
+CREATED: Sat 25 Jul 2026 18:05 PM GMT
+UPDATED: Sat 25 Jul 2026 18:05 PM GMT
+-------------------------------------
+Pin nos.
+-------------------------------------
+A lot of debit card/credit cards use a PIN nos...; 
+which is a combination of 4 numbers;.
+and, where any single digit can range going from: 0-9.
+
+The simplest easiest -laziest- quickest to remember...
+-(which one is very unlikely to forget...?!)-
+4 letter pin no. is, most probably, one's own birth date.
+In my own case, I was born in: 1963.
+
+Now, the problem there is...an intelligent hacker can guess that...???
+All they have to do is presume you are NOT more than 100 years old.
+Then, starting with what is the current year, now: 2026...subtract 100:-
+
+ 2026
+- 100
+-----
+ 1926
+
+So, at least, in theory...they just have to keep on, continuously, guessing by typing in all the 4 letter numbers starting from:
+1926
+1927 
+1928
+...until when they reach 1963...; and, there, they've now cracked it!
+
+NOTE(1): A simple variation is to use your birth year only reversed: 1963 -> 3691.
+(Which, I guess, would be that much more difficult to guess at...;
+ unless the hacker were to try typing in the birth date numbers going in reverse.)
+
+NOTE(2): I believe that most web sites/banks/-etc. do already know about this repeated guessing trick...;
+so, they put in place steps to deal with it.
+A. The user is given only give 3 tries, alone...; after which they have to request a brand 'new' PIN nos., instead.
+B. They set an extended time limit...; so, if the 1st guess is wrong...; they are advised to try, again, later in say 20 minutes time.
+-------------------------------------
+Generate PIN nos.:-
+
+Here, I'm going to show a different way to set up a PIN nos.
+
+-(NOTE: There has to be some sort of 'logic' behind it...;
+as only in that way will the end user be able to work out for themselves
+what was the password they had forgotten.)-
+-------------------------------------
+LOGIC(1)
+Step 1: Start with: Addition...; then, do its opposite, which is: Subtract
+Step 2: Next, change to doing 'fast' Addition: Multiply...; then, do its opposite, which is: Divide.
+
+Calculation Formula:-
+
+n=3
+
+n+n=6
+n-n=0 NOTE: This will always be 0 (eg. any number - itself = 0)
+n*n=9
+n/n=1 NOTE: This will always be 1 (eg. any number dived by 1 = 1)
+
+So, if we remember that both the 2nd/and, last digits will always = 01;
+then, all we have to remember is just 2 digits representing 1st and 3rd place values(add/multiply), 
+and, in this case, where 3 is the number we 'started' with those 2 numbers will be: 69 = 6(3+3)/9(3*3);
+then, when we put a 0 in the middle: 609/and, a 1 at the end, we get: 6091.
+-------------------------------------
+
+
+
