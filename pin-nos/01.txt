@@ -101,6 +101,19 @@ I wack it straight back out there, again, by using a giant hockey stick(7).
 NOTE: The more colourful/and, highly absurd the story is...; 
 then, the easier it is to remember/(and, in actual fact, one just is NOT be able to forget such a colourful/and, absurd story...?!). 
 -------------------------------------
+USE A MEMORABLE WORD
+
+Another way to select 4 digit PIN nos. is to base it on a word;
+then, reduce down any alphabet digit which is > 9.
+
+MEMORABLE WORD: This
+
+T = 20th letter in the alphabet (2+0=2)
+H = 8th letter in the alphabet  (8)
+I = 9th letter in the alpahbet  (9)
+S = 19th letter in the alphabet (1+9=10=1+0=1)
+
+2891
 -------------------------------------
 -------------------------------------
 -------------------------------------
