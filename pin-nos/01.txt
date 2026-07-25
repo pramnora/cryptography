@@ -21,7 +21,8 @@ Then, starting with what is the current year, now: 2026...subtract 100:-
 -----
  1926
 
-So, at least, in theory...they just have to keep on, continuously, guessing by typing in all the 4 letter numbers starting from:
+So, at least, in theory...they just have to keep on, continuously, guessing by typing in a series of 4 numbers progressing from 1926;
+then, just repeatedly, add +1:
 1926
 1927 
 1928
@@ -31,7 +32,11 @@ NOTE(1): A simple variation is to use your birth year only reversed: 1963 -> 369
 (Which, I guess, would be that much more difficult to guess at...;
  unless the hacker were to try typing in the birth date numbers going in reverse.)
 
-NOTE(2): I believe that most web sites/banks/-etc. do already know about this repeated guessing trick...;
+NOTE(2): Another solution would be to mix up the numbers...so, they no longer go logically: 1963(forwards)/3691(backwards)...;
+6193/or, 9316/-etc.
+...your only difficulty, now, is...; to remember what was the exact order or re-arrangement...???
+
+NOTE(3): I believe that most web sites/banks/-etc. do already know about this repeated guessing trick...;
 so, they put in place steps to deal with it.
 A. The user is given only give 3 tries, alone...; after which they have to request a brand 'new' PIN nos., instead.
 B. They set an extended time limit...; so, if the 3 guesses are all 'wrong'...; then, they are advised to try, again, later in say 20 minutes time.
