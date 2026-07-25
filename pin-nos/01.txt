@@ -3,6 +3,8 @@ UPDATED: Sat 25 Jul 2026 18:05 PM GMT
 -------------------------------------
 Pin nos.
 -------------------------------------
+USER 4 DIGIT BIRTH DATE
+
 A lot of debit card/credit cards use a PIN nos...; 
 which is a combination of 4 numbers;.
 and, where any single digit can range going from: 0-9.
@@ -34,20 +36,23 @@ NOTE(1): A simple variation is to use your birth year only reversed: 1963 -> 369
 
 NOTE(2): Another solution would be to mix up the numbers...so, they no longer go logically: 1963(forwards)/3691(backwards)...;
 6193/or, 9316/-etc.
-...your only difficulty, now, is...; to remember what was the exact order or re-arrangement...???
+...your only difficulty, now, is...; to remember what was the exact order of re-arrangement...???
 
 NOTE(3): I believe that most web sites/banks/-etc. do already know about this repeated guessing trick...;
 so, they put in place steps to deal with it.
+
 A. The user is given only give 3 tries, alone...; after which they have to request a brand 'new' PIN nos., instead.
 B. They set an extended time limit...; so, if the 3 guesses are all 'wrong'...; then, they are advised to try, again, later in say 20 minutes time.
 -------------------------------------
+USE NUMBERS THAT FOLLOWS SOME SORT OF STEP WISE 'LOGIC'
+
 Generate PIN nos.:-
 
 Here, I'm going to show a different way to set up a PIN nos.
 
 -(NOTE: There has to be some sort of traceable 'logic' behind it...;
 as only in that way will the end user be able to work out for themselves
-what was the password they may otherwise have completely forgotten...???)-
+what was the password they may otherwise might have completely forgotten...???)-
 -------------------------------------
 LOGIC(1)
 
@@ -68,6 +73,8 @@ then, all we have to remember is just 2 digits, alone; both representing 1st and
 and, in this case, where 3 is the number we originally 'started' out with...those 2 numbers will be: 69 = 6(3+3)/9(3*3);
 then, when we put a 0 in the middle: 609/and, a 1 at the end, we get: 6091.
 -------------------------------------
+USE PURELY 'RANDOM' NUMBERS
+
 I'm sure, there are many other logic ways that it's possible to make up a 4 digit combination PIN nos.
 
 Including...just select a bunch of entirely 'random' digits inside of your own head:
