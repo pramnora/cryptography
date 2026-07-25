@@ -119,7 +119,7 @@ MEMORABLE WORD: This
 
 T = 20th letter in the alphabet (2+0=2)
 H = 8th letter in the alphabet  (8)
-I = 9th letter in the alpahbet  (9)
+I = 9th letter in the alphabet  (9)
 S = 19th letter in the alphabet (1+9=10=1+0=1)
 
 2891
