@@ -54,7 +54,7 @@ Here, I'm going to show a different way to set up a PIN nos.
 as only in that way will the end user be able to work out for themselves
 what was the password they may otherwise might have completely forgotten...???)-
 -------------------------------------
-LOGIC(1)
+LOGIC(1)/MATHS BASED
 
 Step 1: Start with: Addition...; then, do its opposite, which is: Subtract
 Step 2: Next, change to doing 'fast' Addition: Multiply...; then, do its opposite, which is: Divide.
