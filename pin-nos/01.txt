@@ -101,10 +101,19 @@ I wack it straight back out there, again, by using a giant hockey stick(7).
 NOTE: The more colourful/and, highly absurd the story is...; 
 then, the easier it is to remember/(and, in actual fact, one just is NOT be able to forget such a colourful/and, absurd story...?!). 
 -------------------------------------
-USE A MEMORABLE WORD
+USE A MEMORABLE WORD/THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER
 
 Another way to select 4 digit PIN nos. is to base it on a word;
 then, reduce down any alphabet digit which is > 9.
+
+ALPHABET NUMBER CODES
+
+A=1 B=2 C=3 D=4 E=5    
+F=6 G=7 H=8 I=9 J=10
+K=11 L=12 M=13 N=14 O=15 
+P=16 Q=17 R=18 S=19 T=20
+U=21 V=22 W=23 X=24 Y=25
+Z=26
 
 MEMORABLE WORD: This
 
