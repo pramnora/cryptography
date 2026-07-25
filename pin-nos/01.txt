@@ -1,9 +1,20 @@
 CREATED: Sat 25 Jul 2026 18:05 PM GMT
 UPDATED: Sat 25 Jul 2026 18:05 PM GMT
 -------------------------------------
-Pin nos.
+Article: How to generate PIN nos.
 -------------------------------------
-USER 4 DIGIT BIRTH DATE
+Table Of Contents:-
+
+1.1 - USE 4 DIGIT BIRTH DATE
+
+1.2 - USE NUMBERS THAT FOLLOWS SOME SORT OF STEP WISE 'LOGIC'
+1.2.1 - LOGIC(1)/MATHS BASED
+
+1.3 - USE PURELY 'RANDOM' NUMBERS
+
+1.4 - USE A MEMORABLE WORD.../THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER
+-------------------------------------
+1.1 - USE 4 DIGIT BIRTH DATE
 
 A lot of debit card/credit cards use a PIN nos...; 
 which is a combination of 4 numbers;.
@@ -44,7 +55,7 @@ so, they put in place steps to deal with it.
 A. The user is given only give 3 tries, alone...; after which they have to request a brand 'new' PIN nos., instead.
 B. They set an extended time limit...; so, if the 3 guesses are all 'wrong'...; then, they are advised to try, again, later in say 20 minutes time.
 -------------------------------------
-USE NUMBERS THAT FOLLOWS SOME SORT OF STEP WISE 'LOGIC'
+1.2 - USE NUMBERS THAT FOLLOWS SOME SORT OF STEP WISE 'LOGIC'
 
 Generate PIN nos.:-
 
@@ -54,7 +65,7 @@ Here, I'm going to show a different way to set up a PIN nos.
 as only in that way will the end user be able to work out for themselves
 what was the password they may otherwise might have completely forgotten...???)-
 -------------------------------------
-LOGIC(1)/MATHS BASED
+1.2.1 - LOGIC(1)/MATHS BASED
 
 Step 1: Start with: Addition...; then, do its opposite, which is: Subtract
 Step 2: Next, change to doing 'fast' Addition: Multiply...; then, do its opposite, which is: Divide.
@@ -73,7 +84,7 @@ then, all we have to remember is just 2 digits, alone; both representing 1st and
 and, in this case, where 3 is the number we originally 'started' out with...those 2 numbers will be: 69 = 6(3+3)/9(3*3);
 then, when we put a 0 in the middle: 609/and, a 1 at the end, we get: 6091.
 -------------------------------------
-USE PURELY 'RANDOM' NUMBERS
+1.3 - USE PURELY 'RANDOM' NUMBERS
 
 I'm sure, there are many other logic ways that it's possible to make up a 4 digit combination PIN nos.
 
@@ -101,7 +112,7 @@ I wack it straight back out there, again, by using a giant hockey stick(7).
 NOTE: The more colourful/and, highly absurd the story is...; 
 then, the easier it is to remember/(and, in actual fact, one just is NOT be able to forget such a colourful/and, absurd story...?!). 
 -------------------------------------
-USE A MEMORABLE WORD/THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER
+1.4 - USE A MEMORABLE WORD.../THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER
 
 Another way to select 4 digit PIN nos. is to base it on a word;
 then, reduce down any alphabet digit which is > 9.
