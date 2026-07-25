@@ -114,8 +114,8 @@ then, the easier it is to remember/(and, in actual fact, one just is NOT be able
 -------------------------------------
 1.4 - USE A MEMORABLE WORD.../THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER
 
-Another way to select 4 digit PIN nos. is to base it on a word;
-then, reduce down any alphabet digit which is > 9.
+Another way to select 4 digit PIN nos. is to base it on a 4 letter word;
+then, reduce down any alphabet digit which is > 9...to become just 'one' number, alone.
 
 ALPHABET NUMBER CODES
 
