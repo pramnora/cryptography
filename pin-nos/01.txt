@@ -34,17 +34,18 @@ NOTE(1): A simple variation is to use your birth year only reversed: 1963 -> 369
 NOTE(2): I believe that most web sites/banks/-etc. do already know about this repeated guessing trick...;
 so, they put in place steps to deal with it.
 A. The user is given only give 3 tries, alone...; after which they have to request a brand 'new' PIN nos., instead.
-B. They set an extended time limit...; so, if the 1st guess is wrong...; they are advised to try, again, later in say 20 minutes time.
+B. They set an extended time limit...; so, if the 3 guesses are all 'wrong'...; then, they are advised to try, again, later in say 20 minutes time.
 -------------------------------------
 Generate PIN nos.:-
 
 Here, I'm going to show a different way to set up a PIN nos.
 
--(NOTE: There has to be some sort of 'logic' behind it...;
+-(NOTE: There has to be some sort of traceable 'logic' behind it...;
 as only in that way will the end user be able to work out for themselves
-what was the password they had forgotten.)-
+what was the password they may otherwise have completely forgotten...???)-
 -------------------------------------
 LOGIC(1)
+
 Step 1: Start with: Addition...; then, do its opposite, which is: Subtract
 Step 2: Next, change to doing 'fast' Addition: Multiply...; then, do its opposite, which is: Divide.
 
@@ -59,9 +60,42 @@ n/n=1 NOTE: This will always be 1 (eg. any number dived by 1 = 1)
 
 So, if we remember that both the 2nd/and, last digits will always = 01;
 then, all we have to remember is just 2 digits representing 1st and 3rd place values(add/multiply), 
-and, in this case, where 3 is the number we 'started' with those 2 numbers will be: 69 = 6(3+3)/9(3*3);
+and, in this case, where 3 is the number we 'started' with...those 2 numbers will be: 69 = 6(3+3)/9(3*3);
 then, when we put a 0 in the middle: 609/and, a 1 at the end, we get: 6091.
 -------------------------------------
+I'm sure, there are many other logic way that it's possible to make up a 4 digit combination PIN nos.
+Including...just select a bunch of entirely 'random' digits.
+
+9467
+
+...now, we need a way to remember each digit, for example:-
+
+9: A lassoo with the circle going on top
+4: A ship with it's sail pointing left
+6: A lassoo with the circle going down
+7: A hockey stick
+
+I personally have found that rather than trying to remember numbers by just thinking purely in terms of numbers; then, I tend to forget...?!
+But, when I add something else to the number, like a picture/or, even, multiple pictures...;
+then, I find numbers so much easier to remember.
+It's also good to add in some sort of a story.
+
+The lassoo (9) reaches out grabs a sail boat (4)...; then, pulls that sail boat in...lassoo reverses itself (6)...;
+then, when that sail boat has been pulled straight back into shore...by the lassoo;
+I wack it straight back out there, again, by using a giant hockey stick.
+
+NOTE: The more colourful/and, highly absurd the story is...; then, the easier it is to remember/(and, just NOT be able to forget...?!). 
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+
+
+
 
 
 
