@@ -10,7 +10,7 @@ Table Of Contents:-
 1.2 - USE NUMBERS THAT FOLLOWS SOME SORT OF STEP WISE 'LOGIC'
 1.2.1 - LOGIC(1)/MATHS BASED (USE OPPOSITES: ADD/SUBTRACT...MULTIPLY/DIVIDE)
 
-1.3 - USE PURELY 'RANDOM' NUMBERS
+1.3 - USE PURELY 'RANDOM' NUMBERS/(AND, MNEMONIC -PICTURES/STORY- TECHNIQUE)
 
 1.4 - USE A MEMORABLE WORD.../THEN, ADD UP/REDUCE DOWN THEIR RELATED ALPHABET NUMBER
 -------------------------------------
@@ -84,7 +84,7 @@ then, all we have to remember is just 2 digits, alone; both representing 1st and
 and, in this case, where 3 is the number we originally 'started' out with...those 2 numbers will be: 69 = 6(3+3)/9(3*3);
 then, when we put a 0 in the middle: 609/and, a 1 at the end, we get: 6091.
 -------------------------------------
-1.3 - USE PURELY 'RANDOM' NUMBERS
+1.3 - USE PURELY 'RANDOM' NUMBERS/(AND, MNEMONIC -PICTURES/STORY- TECHNIQUE)
 
 I'm sure, there are many other logic ways that it's possible to make up a 4 digit combination PIN nos.
 
