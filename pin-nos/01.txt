@@ -58,33 +58,36 @@ n-n=0 NOTE: This will always be 0 (eg. any number - itself = 0)
 n*n=9
 n/n=1 NOTE: This will always be 1 (eg. any number dived by 1 = 1)
 
-So, if we remember that both the 2nd/and, last digits will always = 01;
-then, all we have to remember is just 2 digits representing 1st and 3rd place values(add/multiply), 
-and, in this case, where 3 is the number we 'started' with...those 2 numbers will be: 69 = 6(3+3)/9(3*3);
+So, if we remember that both the 2nd/and, last digits will always be = 01;
+then, all we have to remember is just 2 digits, alone; both representing 1st and 3rd place values(slow add=add/fast add=multiply); 
+and, in this case, where 3 is the number we originally 'started' out with...those 2 numbers will be: 69 = 6(3+3)/9(3*3);
 then, when we put a 0 in the middle: 609/and, a 1 at the end, we get: 6091.
 -------------------------------------
-I'm sure, there are many other logic way that it's possible to make up a 4 digit combination PIN nos.
-Including...just select a bunch of entirely 'random' digits.
+I'm sure, there are many other logic ways that it's possible to make up a 4 digit combination PIN nos.
+
+Including...just select a bunch of entirely 'random' digits inside of your own head:
 
 9467
 
 ...now, we need a way to remember each digit, for example:-
 
 9: A lassoo with the circle going on top
-4: A ship with it's sail pointing left
+4: A ship with it's sail seen pointing left
 6: A lassoo with the circle going down
 7: A hockey stick
 
 I personally have found that rather than trying to remember numbers by just thinking purely in terms of numbers; then, I tend to forget...?!
 But, when I add something else to the number, like a picture/or, even, multiple pictures...;
 then, I find numbers so much easier to remember.
+
 It's also good to add in some sort of a story.
 
 The lassoo (9) reaches out grabs a sail boat (4)...; then, pulls that sail boat in...lassoo reverses itself (6)...;
 then, when that sail boat has been pulled straight back into shore...by the lassoo;
-I wack it straight back out there, again, by using a giant hockey stick.
+I wack it straight back out there, again, by using a giant hockey stick(7).
 
-NOTE: The more colourful/and, highly absurd the story is...; then, the easier it is to remember/(and, just NOT be able to forget...?!). 
+NOTE: The more colourful/and, highly absurd the story is...; 
+then, the easier it is to remember/(and, in actual fact, one just is NOT be able to forget such a colourful/and, absurd story...?!). 
 -------------------------------------
 -------------------------------------
 -------------------------------------
