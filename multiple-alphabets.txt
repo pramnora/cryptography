@@ -1,0 +1,20 @@
+CREATED: Wed 29 Jul 2026 12:37 PM GMT
+UPDATED: Wed 29 Jul 2026 12:37 PM GMT
+-------------------------------------
+Multiple alphabets:-
+-------------------------------------
+        5    10    15    20    25 26 
+0 - abcde fghij klmno pqrst uvwxy z - (alphabet written going forwards: a-z)
+
+1 - badcf ehgji lknmp orqts vuxwz y - (alphabet written going forwards, with each successive 2 letters of the alphabet being reversed: ab -> ba)
+2 - zyxwv utsrq ponml kjihg fedcb a - (alphabet written going backwards: z-a)
+3 - yzwxu vstqr opmnk lijgh efcda b - (alphabet written going backwards, with each successive 2 letters of the alphabet being reversed: zy -> yz) 
+4 - mlkji hgfed cbazy xwvut srqpo n - (13 letters written backwards: m-a/13 letters written backwards: z-n)
+
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
+-------------------------------------
