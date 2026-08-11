@@ -84,20 +84,26 @@ So, now, we've created two different versions of the Caeser Shift cypher to sele
 
 > 3. DO PLAINTEXT ENCODING
 
-plaintext: This is a secret message.
+key phrase(1): Bet u can't guess?
+key phrase(2): BETUCANTGUESS
+key phrase(3): 0101110011111 
+
+plaintext(1): This is a secret message.
+plaintext(2): THISISASECRETMESSAGE
 
 Translation process:
-Each letter in the plaintext...is translated according its corresponding number inside of the key phrase:
+Each letter in the plaintext...is translated according to its corresponding number inside of the key phrase:
 if the key phrase number says: 0; then, Caeser shift = +1
 if the key phrase number says: 1: then, Caeser shift = -1
 ...and, so on...
 
-key phrase: 0 1 0 1 0 1
-plaintext:  T h i s i s
+key phrase: 0 1 0 1 1 1 0 0 1 1 1 1 1 0 1 0 1 1 1 0 (*NOTE* The key 'repeats' at M...why? Because it is shorter that the plaintext message.) 
+plaintext:  T H I S I S A S E C R E T M E S S A G E (each letter is encoded 1 at a time going from left to right) 
+ciphertext: U G J R H R B T D B Q D S N D T R Z F F (the key no decides if the plain text char should be shifted either up +1/or, down -1)
 
-T(20/key phrase num=0)/Caeser Shift: +1
-H(08/key phrase num=1)/Caeser Shift: -1
-I(09/key phrase num)=0)/Caeser Shift: +1
+T(20/plus, key phrase num=0/Even: +1)/Caeser Shift: +1/T(20+1)=U(21)
+H(08/plus, key phrase num=1/Odd:  -1)/Caeser Shift: -1/H(08-1)=G(07)
+I(09/plus, key phrase num=0/Even: +1)/Caeser Shift: +1/I(09+1)=J(10)
 -etc.
 
 -----
@@ -106,15 +112,32 @@ I(09/key phrase num)=0)/Caeser Shift: +1
 
 ciphertext: 
 
+key phrase: 0 1 0 1 1 1 0 0 1 1 1 1 1 0 1 0 1 1 1 0 (*NOTE* The key 'repeats' at M...why? Because it is shorter that the plaintext message.) 
+ciphertext: U G J R H R B T D B Q D S N D T R Z F F (the key no decides if the plain text char should be shifted up +1/or, down -1)
+plaintext:  T H I S I S A S E C R E T M E S S A G E (each letter is encoded 1 at a time going from right to left) 
+
+U(21/plus, key phrase num=0/Even: +1/-1)/Caeser Shift: -1/U(21-1)=T(20)
+G(07/plus, key phrase num=1/Odd:  -1/+1)/Caeser Shift: +1/G(08+1)=H(07)
+J(09/plus, key phrase num=0/Even: +1/-1)/Caeser Shift: -1/J(10-1)=I(09)
+-etc.
+
+*NOTE*: In the 'decoding' process...one just merely reverses back the step that was used to encode.
+
+So, the key no starts: 0...which is even...so, instead, of +1...one does -1. 
+Eg. U/21(-1) becomes: T/20
+
 -----
 
 > IMPORTANT NOTES:
 
-This code file still remains 'unfinished'...; 
-and, I do hope to find sufficient time to be able to complete it, later on. 
+This form of encoding/decoding method is very simple and easy to crack; 
+because the maths behind it is very straight forwards, indeed; 
+it uses just merely: +1/-1...to both encode/decode;
+such an encoding process anybody could merely 'guess' at in order to solve.
 
-In particular,...
+However, the main purpose of the code here...is to show that through using a set of: 'Binary code numbers'; 
+then, it's possible to select between 'any' 2 cypher alphabets,
+be they either: 'ordered'/or else, with letters chosen purely at: random, instead.
 
-- Parts: 3/4 still need to be written.
 
 
