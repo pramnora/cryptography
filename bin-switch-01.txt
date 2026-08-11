@@ -158,7 +158,11 @@ Any smart person already familiar with Ceaser Shift Ciphers could guess...by sim
           Q  Z  T  M
          -1 -1 -1 -1 
           P  Y  S  L
-...then, checking which combination of letters made enough sense to spell out what is the final word.
+...then, looking both up and down along those 2 above rows...;
+checking which combination of letters made enough sense 
+to spell out words/or, in this particular case, names.
+So, they wouldn't necessarily need to know 
+what was the exact 'key phase'/'ordered alphabet' in order to make guesses.
 
 However, the main purpose of the code here...is to show that through using a set of: 'Binary code numbers'; 
 then, it's possible to select between 'any' 2 cypher alphabets,
