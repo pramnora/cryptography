@@ -5,7 +5,10 @@ UPDATED: Tue 11 Aug 2026 14:59 PM GMT
 ---------------------------------------------------------------------------
 METHOD: SYMMETRICAL CYPHER
 
-Both 'encoding/decoding' are the same exact process only reversed: A=B/B=A. 
+Both 'encoding/decoding' are the same exact process only being done in reverse: 
+encoding: +1/-1
+...becomes...
+decoding: -1/+1
 ---------------------------------------------------------------------------
 
 Table of contents:-
