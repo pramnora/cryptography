@@ -154,7 +154,7 @@ Any smart person already familiar with Ceaser Shift Ciphers could guess...by sim
  
           Q  Z  T  M
          -1 -1 -1 -1 
-          P  A  S  L
+          P  Y  S  L
 ...then, checking which combination of letters made enough sense to spell out what is the final word.
 
 However, the main purpose of the code here...is to show that through using a set of: 'Binary code numbers'; 
