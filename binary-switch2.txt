@@ -181,6 +181,6 @@ However, the main purpose of the code here...is to show that through using a set
 then, it's possible to select between 'any' 2 cypher alphabets,
 be they either: 'ordered'/or else, with letters chosen purely at: 'random', instead.
 
--(A 'randomly' ordered alphabet would be that much harder to guess at...???)-
+-(*NOTE*: A 'randomly' ordered alphabet would be that much harder to guess at...???)-
 
 
