@@ -19,6 +19,7 @@ Table of contents:-
 > 4. DO 'CIPHERTEXT' DECODING: UGJRHRBTDBQDSNDTRZFF/THISISASECRETMESSAGE
 > 5. INITIAL NOTES: REGULAR PATTERN: +1/-1 (TOO PREDICTABLE...?!)
 > 6. FINAL NOTES: MATHEMATICALLY SPEAKING: +1/-1, IS NOT A 'SAFE' ENCODING METHOD/BUT, IS VERY WEAK
+> 7. CONCLUSION
 
 -----
 
@@ -183,4 +184,12 @@ be they either: 'ordered'/or else, with letters chosen purely at: 'random', inst
 
 -(*NOTE*: A 'randomly' ordered alphabet would be that much harder to guess at...???)-
 
+-----
 
+> 7. CONCLUSION
+
+The main concepts here are as follows:-
+
+- Devise a number of different alphabets
+- Select which alphabet is to go next 
+- Select a numeric interval: +1/-1
