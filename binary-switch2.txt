@@ -190,6 +190,8 @@ be they either: 'ordered'/or else, with letters chosen purely at: 'random', inst
 
 The main concepts to grasp here are as follows:-
 
+- Caesar Shift Cipher
+- Key phrase
 - A single alphabet can be interpreted in more than one way.
 - Choose a number to select between which particular reading of the alphabet to use next.
 - Do the encoding/decoding process.
