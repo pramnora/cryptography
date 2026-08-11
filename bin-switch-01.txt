@@ -166,7 +166,8 @@ what was the exact 'key phase'/'ordered alphabet' in order to make guesses.
 
 However, the main purpose of the code here...is to show that through using a set of: 'Binary code numbers'; 
 then, it's possible to select between 'any' 2 cypher alphabets,
-be they either: 'ordered'/or else, with letters chosen purely at: random, instead.
+be they either: 'ordered'/or else, with letters chosen purely at: 'random', instead.
 
+-(A 'randomly' ordered alphabet would be that much harder to guess at...???)-
 
 
