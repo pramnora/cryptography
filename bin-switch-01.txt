@@ -10,11 +10,11 @@ Both 'encoding/decoding' are the same exact process only reversed: A=B/B=A.
 
 Table of contents:-
 
-> 1. CREATE THE KEY PHRASE/AND, THEN, TRANSLATE IT INTO BINARY NUMBER CODES: 0/1
+> 1. CHOOSE A 'KEY PHRASE'/AND, NEXT, TRANSLATE IT INTO 'BINARY NUMBER CODES': 0/1
 > 2. SELECT 2 DIFFERENT CAESER SHIFT VERSIONS GOING EITHER: UP/DOWN: (+1/-1)
-> 3. DO PLAINTEXT ENCODING: This is a secret message.
-> 4. DO CIPHERTEXT DECODING: (to be shown/updated here, later on)
-> IMPORTANT NOTES:
+> 3. DO 'PLAINTEXT' ENCODING: This is a secret message.
+> 4. DO 'CIPHERTEXT' DECODING: (to be shown/updated here, later on)
+> IMPORTANT NOTES: This algorithm remains 'unfinished'.
 
 -----
 
