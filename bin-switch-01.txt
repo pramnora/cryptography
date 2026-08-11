@@ -2,19 +2,19 @@ CREATED: Tue 11 Aug 2026 14:59 PM GMT
 UPDATED: Tue 11 Aug 2026 14:59 PM GMT
 -------------------------------------
 
-SYMMETRICAL CYPHER
+---------------------------------------------------------------------------
+METHOD: SYMMETRICAL CYPHER
 
-Both 'encoding/decoding' are the same exact process only having been reversed: A=B/B=A. 
-
------
+Both 'encoding/decoding' are the same exact process only reversed: A=B/B=A. 
+---------------------------------------------------------------------------
 
 Table of contents:-
-
 
 > 1. CREATE THE KEY PHRASE/AND, THEN, TRANSLATE IT INTO BINARY NUMBER CODES: 0/1
 > 2. SELECT 2 DIFFERENT CAESER SHIFT VERSIONS GOING EITHER: UP/DOWN: (+1/-1)
 > 3. DO PLAINTEXT ENCODING: This is a secret message.
 > 4. DO CIPHERTEXT DECODING: (to be shown/updated here, later on)
+> IMPORTANT NOTES:
 
 -----
 
@@ -78,7 +78,39 @@ Z/26 +1 = A/1
 
 > 3. DO PLAINTEXT ENCODING
 
+plaintext: This is a secret message.
+
+Translation process:
+Each letter in the plaintext...is translated according its corresponding number inside of the key phrase:
+if the key phrase number says: 0; then, Caeser shift = +1
+if the key phrase number says: 1: then, Caeser shift = -1
+...and, so on...
+
+key phrase: 0 1 0 1 0 1
+plaintext:  T h i s i s
+
+T(20/key phrase num=0)/Caeser Shift: +1
+H(08/key phrase num=1)/Caeser Shift: -1
+I(09/key phrase num)=0)/Caeser Shift: +1
+-etc.
+
 -----
 
 > 4. DO CIPHERTEXT DECODING
+
+ciphertext: 
+
+-----
+
+> IMPORTANT NOTES:
+
+This code file still remains 'unfinished'...; 
+and, I do hope to find sufficient time to be able to complete it, later on. 
+
+In particular,...
+
+- the 'key phrase' needs to be re-written to become something else, instead; 
+  as the 'plaintext' message is meant to say: 'This is a secret message.'
+  (The 'key phrase' is NOT meant to be the same as is the 'plaintext' message...; and, currently, they are...?!)
+
 
