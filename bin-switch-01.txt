@@ -33,7 +33,7 @@ halfing the alphabet means:
 02 04 06 08 10 12 14 16 18 20 22 24 26  (even numbers)
  1  2  3  4  5  6  7  8  9 10 11 12 13  (characters count)
 
-If we use a key phrase: Paul.
+      If we use a key phrase: Bet u can't guess?
        (take out all spaces): Betucan'tguess?
     (remove all punctuation): Betucantguess
 (make all letters uppercase): BETUCANTGUESS
