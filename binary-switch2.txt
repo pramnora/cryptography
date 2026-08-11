@@ -136,9 +136,9 @@ Eg. U/21(-1) becomes: T/20
 
 My initial thoughts were...rather than use a Caesar shift pattern of:
 
-- going forwards: +1
-- going backwards: - 
-- alternating going back and forth: +1,-1
+- going forwards: +1/PAUL=QBVM
+- going backwards: -1/PAUL=OZTK 
+- alternating going back and forth: +1,-1/PAUL+QZVK
 
 ...to make the switching pattern rather more 'unpredictable' by using a key phrase.
 
