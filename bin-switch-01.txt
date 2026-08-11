@@ -48,12 +48,12 @@ So, the 'alphabet letter number' -> 'Binary code number' translation rule goes a
  B  E  T  U  C  A  N  T  G  U  E  S  S (key phrase characters)
 02 05 20 21 03 01 14 20 07 21 05 19 09 (translation: alphabet letter -> alphabet number) 
  0  1  0  1  1  1  0  0  1  1  1  1  1 (translation: alphabet letter: even/odd -> binary digit: 0/1)
-01 02 03 04 05 06 07 08 09 10 11 12 13 (check the digits length: 21)
+01 02 03 04 05 06 07 08 09 10 11 12 13 (check the digits length: 13)
 
 ...so, when we remove all spaces from the translated binary digits code:
 01011 10011 111
     5     5   3  = (5+5+3) 13 binary digits
-0101110011111 (13 letter key phrase...translated...into becoming 13 binary digits)
+0101110011111 (...with all spaces removed. 13 letter key phrase...translated...into becoming 13 binary digits)
 
 -----
 
