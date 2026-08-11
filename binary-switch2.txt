@@ -17,7 +17,8 @@ Table of contents:-
 > 2. SELECT 2 DIFFERENT CAESER SHIFT VERSIONS GOING EITHER: UP/DOWN: (+1/-1)
 > 3. DO 'PLAINTEXT' ENCODING: THISISASECRETMESSAGE/UGJRHRBTDBQDSNDTRZFF
 > 4. DO 'CIPHERTEXT' DECODING: UGJRHRBTDBQDSNDTRZFF/THISISASECRETMESSAGE
-> 5. FINAL NOTES: MATHEMATICALLY SPEAKING: +1/-1, IS NOT A 'SAFE' ENCODING METHOD/BUT, IS VERY WEAK
+> 5. INITIAL NOTES: REGULAR PATTERN: +1/-1 (TOO PREDICTABLE...?!)
+> 6. FINAL NOTES: MATHEMATICALLY SPEAKING: +1/-1, IS NOT A 'SAFE' ENCODING METHOD/BUT, IS VERY WEAK
 
 -----
 
@@ -131,7 +132,19 @@ Eg. U/21(-1) becomes: T/20
 
 -----
 
-> 5. FINAL NOTES: MATHEMATICALLY SPEAKING: +1/-1, IS NOT A 'SAFE' ENCODING METHOD/BUT, IS VERY WEAK
+> 5. INITIAL NOTES: REGULAR PATTERN: +1/-1 (TOO PREDICTABLE...?!)
+
+My initial thoughts were...rather than use a Caesar shift pattern of:
+
+- going forwards: +1
+- going backwards: - 
+- alternating going back and forth: +1,-1
+
+...to make the switching pattern rather more 'unpredictable' by using a key phrase.
+
+-----
+
+> 6. FINAL NOTES: MATHEMATICALLY SPEAKING: +1/-1, IS NOT A 'SAFE' ENCODING METHOD/BUT, IS VERY WEAK
 
 This form of 'encoding/decoding' method is very simple and easy to crack; 
 because the maths behind it is very straight forwards, indeed; 
