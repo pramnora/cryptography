@@ -115,8 +115,6 @@ and, I do hope to find sufficient time to be able to complete it, later on.
 
 In particular,...
 
-- the 'key phrase' needs to be re-written to become something else, instead; 
-  as the 'plaintext' message is meant to say: 'This is a secret message.'
-  (The 'key phrase' is NOT meant to be the same as is the 'plaintext' message...; and, currently, they are...?!)
+- Parts: 3/4 still need to be written.
 
 
