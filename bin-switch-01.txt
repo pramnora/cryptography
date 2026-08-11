@@ -4,7 +4,7 @@ UPDATED: Tue 11 Aug 2026 14:59 PM GMT
 
 SYMMETRICAL CYPHER
 
-Both 'encoding/decoding' are the same exactly process only having been reversed: 'A=B/B=A'. 
+Both 'encoding/decoding' are the same exact process only having been reversed: A=B/B=A. 
 
 -----
 
