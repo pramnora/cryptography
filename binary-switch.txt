@@ -37,8 +37,8 @@ If the number is 0 then use encoding method: 1
 If the number is 1 then use encoding method: 2
 ----------------------
 Plaintext: Paul
-0 - Encoding method 1 - p = k
-0 - Encoding method 1 - a = z
+0 - Encoding method 1 - p = c
+0 - Encoding method 1 - a = n
 1 - Encoding method 2 - u = f
 0 - Encoding method 1 - l = y
  
