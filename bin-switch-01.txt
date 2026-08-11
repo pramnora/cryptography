@@ -135,8 +135,11 @@ Eg. U/21(-1) becomes: T/20
 
 This form of 'encoding/decoding' method is very simple and easy to crack; 
 because the maths behind it is very straight forwards, indeed; 
-it uses just merely: +1/-1...to both encode/decode;
-such an encoding process anybody could merely 'guess' at in order to solve.
+it uses just merely:
+- Caesar shift: +1/-1
+- plus, an 'ordered' alphabet: 1-26/A-Z
+...to both encode/decode;
+such an encoding process anybody could merely just 'guess' at in order to solve.
 
 For example, were I to encode the name: paul/by using key phrase: jump
 
