@@ -138,6 +138,25 @@ because the maths behind it is very straight forwards, indeed;
 it uses just merely: +1/-1...to both encode/decode;
 such an encoding process anybody could merely 'guess' at in order to solve.
 
+For example, were I to encode the name: paul/by using key phrase: jump
+
+key word:  J  U  M  P
+   phase:  E  O  O  E  (E=even/O=odd) 
+key nos.:  0  1  1  0
+ up/down: +1 -1 -1 +1
+    name:  p  a  u  l
+ encoded:  Q  Z  T  M 
+
+Any smart person already familiar with Ceaser Shift Ciphers could guess...by simply writing out: +1/-1
+          Q  Z  T  M
+         +1 +1 +1 +1   
+          R  A  U  N
+ 
+          Q  Z  T  M
+         -1 -1 -1 -1 
+          P  A  S  L
+...then, checking which combination of letters made enough sense to spell out what is the final word.
+
 However, the main purpose of the code here...is to show that through using a set of: 'Binary code numbers'; 
 then, it's possible to select between 'any' 2 cypher alphabets,
 be they either: 'ordered'/or else, with letters chosen purely at: random, instead.
