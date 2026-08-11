@@ -188,8 +188,8 @@ be they either: 'ordered'/or else, with letters chosen purely at: 'random', inst
 
 > 7. CONCLUSION
 
-The main concepts here are as follows:-
+The main concepts to grasp here are as follows:-
 
-- Devise a number of different alphabets
-- Select which alphabet is to go next 
-- Select a numeric interval: +1/-1
+- A single alphabet can be interpreted in more than one way.
+- Choose a number to select between which particular reading of the alphabet to use next.
+- Do the encoding/decoding process.
