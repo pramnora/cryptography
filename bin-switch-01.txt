@@ -15,9 +15,9 @@ Table of contents:-
 
 > 1. CHOOSE A 'KEY PHRASE'/AND, NEXT, TRANSLATE IT INTO 'BINARY NUMBER CODES': 0/1
 > 2. SELECT 2 DIFFERENT CAESER SHIFT VERSIONS GOING EITHER: UP/DOWN: (+1/-1)
-> 3. DO 'PLAINTEXT' ENCODING: This is a secret message.
-> 4. DO 'CIPHERTEXT' DECODING: (to be shown/updated here, later on)
-> IMPORTANT NOTES: This algorithm remains 'unfinished'.
+> 3. DO 'PLAINTEXT' ENCODING: THISISASECRETMESSAGE/UGJRHRBTDBQDSNDTRZFF
+> 4. DO 'CIPHERTEXT' DECODING: UGJRHRBTDBQDSNDTRZFF/THISISASECRETMESSAGE
+> HERE ARE SOME FINAL NOTES: 
 
 -----
 
@@ -131,9 +131,9 @@ Eg. U/21(-1) becomes: T/20
 
 -----
 
-> IMPORTANT NOTES:
+> HERE ARE SOME FINAL NOTES: 
 
-This form of encoding/decoding method is very simple and easy to crack; 
+This form of 'encoding/decoding' method is very simple and easy to crack; 
 because the maths behind it is very straight forwards, indeed; 
 it uses just merely: +1/-1...to both encode/decode;
 such an encoding process anybody could merely 'guess' at in order to solve.
