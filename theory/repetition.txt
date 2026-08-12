@@ -33,7 +33,7 @@ that are written to stand entirely on their own? In fact, there are just 2: 'a'/
 so, '01' could mean either an: 'a'/or, an 'i', quite possibly?
 
 And, so, decoding consists of finding patterns; 
-and, then, breaking these pattens down to make some sort of sense.
+and, then, breaking these patterns down to make some sort of sense.
 
 -----
 
@@ -51,6 +51,12 @@ We can choose to, quite deliberately, take out all of the spaces...
 as there are no spaces to, quite clearly, indicate that.
 Nor can they see any clearly repeating stand alone: 01's, anymore;
 to indicate either 'a'/or,'i'.
+
+If one takes into account the fact that both letters: 'a'/'i' are vowels;
+and, English language words are all vowel based: a/e/i/o/u; 
+then, if the decoder figures out what 2 of the 5 vowels means/or, even, 1...;
+they would already have figured out quite a bit of what the rest of the code might actually mean;
+especially, if the words length is exposed.
 
 Another thing the encoder can do is to...mix both letters/numbers...;
 so, using: Alphabet letter number codes: A=01/B=02/-etc.;
