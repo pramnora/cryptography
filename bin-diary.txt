@@ -1,0 +1,28 @@
+CREATED: Wed 12 Aug 2026 00:55 AM GMT
+UPDATED: Wed 12 Aug 2026 00:55 AM GMT
+-------------------------------------
+
+--------------------------------------------------------
+BINARY CODES: 1/O...USED TO STORE 'COMPACT' DATA ENTRIES
+              USED WITH SOME DATA ENTRY 'KEY'
+--------------------------------------------------------
+    
+Binary codes, can be used to very quickly and easily represent data...;
+by simply making use of: 1/0; one might think of it as a 'tick'...;
+where: 1 represents did it/and, 0 represents didn't do it. 
+  
+However, one also needs to keep hold of a, key...;
+which explains what each of the separate data entry digits is referring to mean.  
+
+KEY:
+  
+Went out/Stayed in: 1
+Shopped: 1
+Online/Offline: 0  
+Exercised: 0
+-etc.
+
+Personal diary:
+1100 (I went out/shopped/offline/didn't exercise)
+
+-etc.
