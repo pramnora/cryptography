@@ -27,6 +27,8 @@ Wikipedia...
 - https://en.wikipedia.org/wiki/ASCII  
 - https://en.wikipedia.org/wiki/Caesar_cipher   
 - https://en.wikipedia.org/wiki/ROT13  
+- https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher  
+  
 
 
 
