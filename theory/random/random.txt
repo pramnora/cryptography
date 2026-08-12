@@ -1,0 +1,13 @@
+Cryptography, at it's heart, is usually based on 2 'contrasting' concepts:
+
+- order
+- randomness
+
+Basically, there has to be some kind of order to the -apparent- randomness...;
+otherwise, one would never be able to figure out what the original message meant...?!
+
+And, without a certain amount of randomness...; 
+then, the encoded message would, of course, become entirely 'obvious'.
+
+The apparent 'randomness' is already well 'known' to the encoder/
+but, 'unknown' to the decoder...; who, therefore, has to go figure out what it all means...???
