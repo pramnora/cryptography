@@ -8,6 +8,8 @@ Beginner level cryptography techniques
 
 ## Example codes
 
+These codes were generated using Linux Mint OS...; together with Bash Shell Scripting inside of the Terminal window.
+
 ![Simple codes](pictures/080726-2343-simple-codes-01.png "Simple codes...")  
 
 -----
