@@ -41,7 +41,7 @@ O -> L / O(15) (26-(15-1=14))=12(L)
 NOTE:-
 
 Behind a lot 'encoding/decoding' processes...;   
-there exists some sort of 'mathematical formula'...;      
+there exists some sort of fixed 'mathematical formula'...;      
 that's well worth searching to find...;  
 as it makes the job of 'encoding/decoding'  
 automated in computer programming terms.    
