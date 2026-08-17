@@ -13,3 +13,20 @@ Examples:
 Encoded letter: 26/26-(26-1=)25=1  Decoded letter: A
 Encoded letter: 17/26-(17-1=)16=10 Decoded letter: J
 Encoded letter: 01/26-(1-1=)0=26   Decoded letter: Z
+
+Plaintext: Paul
+CAPITALS: PAUL
+--------------
+ciphertext: 
+P -> K
+A -> Z
+U -> F
+L -> O
+--------------
+decoded:
+K -> P / K(11) 26-(11-1)=16(P)
+Z -> A / Z(26) 26-(26-1)=1(A)
+F -> U / F(06) 26-(6-1)=21(U)
+O -> L / O(15) 26-(15-1)=12(L)
+
+
