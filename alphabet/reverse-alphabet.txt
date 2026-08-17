@@ -36,4 +36,10 @@ Z -> A / Z(26) (26-(26-1=25))=1(A)
 F -> U / F(06) (26-(06-1=05))=21(U)
 O -> L / O(15) (26-(15-1=14))=12(L)
 
+-----
+
+NOTE:-
+
+Behind a lot 'encoding/decoding' processes...; there exists some sort of 'mathematical formula'...;    
+that's well worth searching to find...; as it makes the job of 'encoding/decoding' automated in computer programming terms.    
 
