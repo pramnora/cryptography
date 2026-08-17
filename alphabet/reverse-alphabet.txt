@@ -24,13 +24,13 @@ then, employing the mathematical formula, would be the much preferred -or, maybe
 Plaintext: Paul
 CAPITALS: PAUL
 --------------
-ciphertext: 
+ciphertext/(plaintext encoded): 
 P -> K / P(16) (26-(16-1=15))=11(K)
 A -> Z / A(01) (26-(01-1=00))=26(Z)
 U -> F / U(21) (26-(21-1=20))=06(F)
 L -> O / L(12) (26-(12-1=11))=15(O)
 --------------
-decoded:
+plaintext/(cipertext decoded):
 K -> P / K(11) (26-(11-1=10))=16(P)
 Z -> A / Z(26) (26-(26-1=25))=01(A)
 F -> U / F(06) (26-(06-1=05))=21(U)
