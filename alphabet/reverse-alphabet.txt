@@ -8,11 +8,12 @@ A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
 Z  Y  X  W  V  U  T  S  R  Q  P  O  N  M  L  K  J  I  H  G  F  E  D  C  B  A 
 
 ----- 
+
 Decoding formula: (26-(n-1=n))=n
 
-By far the quickest way for a human being to encode/decode is to simply look at the above chart;  
-which includes the alphabet being written going both forwards/backwards;  
-and, then, translate using the verticals, where: A=Z/Z=A.
+By far the 'quickest' way for a human being to both: 'encode/decode' is to, quite simply, look at the above: 'A-Z/Z-A' chart;  
+which includes the alphabet being written going both 'forwards/backwards';  
+and, then, translate using the verticals, where: A=Z(encode)/Z=A(decode).
 
 However, seeing things from a different strictly 'mathematical' perspective...;   
 which is what computer programming tends to use...;  
